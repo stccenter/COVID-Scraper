@@ -1,0 +1,7 @@
+requests
+bs4
+lxml
+pandas
+sqlalchemy
+tabula
+tabula-py

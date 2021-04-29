@@ -1,0 +1,5571 @@
+﻿Name,Accumulated cases,Accumulated deaths
+São Paulo,567617,19897
+Brasília,322686,5206
+Rio de Janeiro,215263,19532
+Salvador,163789,4377
+Manaus,154083,8258
+Fortaleza,142560,5347
+Curitiba,131777,2943
+Belo Horizonte,125661,2927
+Goiânia,115624,3113
+Porto Alegre,106542,2878
+Aracaju,81729,1194
+Campo Grande,80023,1623
+Recife,79346,3209
+Belém,78831,3058
+Uberlândia,75158,1424
+Joinville,71975,841
+Teresina,66996,1458
+Florianópolis,65697,636
+Boa Vista,65247,959
+João Pessoa,65028,1652
+Campinas,63006,2067
+Porto Velho,62210,1578
+Cuiabá,60198,1757
+Maceió,56492,1457
+São José do Rio Preto,53202,1250
+Natal,51305,1567
+Aparecida de Goiânia,50536,826
+São José dos Campos,50278,883
+São Bernardo do Campo,47791,1679
+Londrina,44621,718
+Vila Velha,44573,885
+Serra,44107,798
+Ribeirão Preto,43636,1374
+Santos,41314,1153
+Santo André,39528,1497
+Blumenau,39340,360
+Macapá,39137,892
+Vitória,38001,731
+Guarulhos,37356,2259
+Maringá,37098,602
+Parauapebas,35723,242
+Sorocaba,34102,855
+Piracicaba,33864,572
+São Gonçalo,33289,1538
+Caxias do Sul,33156,575
+Palmas,32932,316
+Feira de Santana,31991,555
+São Luís,31903,1546
+Foz do Iguaçu,30948,504
+Niterói,30066,1159
+Chapecó,29542,446
+Rio Branco,29102,696
+São José,28811,333
+Cascavel,27838,460
+Jundiaí,27468,665
+Bauru,27449,476
+Cariacica,27073,769
+Itabuna,25994,458
+Osasco,25805,1216
+Criciúma,25423,295
+Ponta Grossa,24004,467
+Anápolis,23352,584
+Canoas,23204,765
+Passo Fundo,22782,341
+Palhoça,22626,179
+Araguaína,22607,286
+Vitória da Conquista,22588,356
+Campina Grande,22245,622
+Dourados,22203,290
+Montes Claros,21895,360
+Juiz de Fora,21847,893
+Rondonópolis,21798,553
+Contagem,21741,796
+Ipatinga,21674,427
+Volta Redonda,20516,503
+Jaboatão dos Guararapes,20374,1100
+Santana,20123,108
+Balneário Camboriú,20029,231
+Santa Maria,20018,311
+Betim,19192,535
+Brusque,19155,164
+Teresópolis,19124,425
+Itajaí,18916,397
+Carapicuíba,18757,552
+Campos dos Goytacazes,18727,778
+Juazeiro do Norte,18688,362
+Cachoeiro de Itapemirim,18688,366
+Rio Verde,18601,383
+Petrolina,18465,218
+Pelotas,18448,429
+Macaé,18408,328
+Novo Hamburgo,18210,518
+Parnamirim,18028,299
+Arapiraca,18009,260
+Várzea Grande,17572,730
+Belford Roxo,17486,440
+Mogi das Cruzes,17474,789
+Lages,17423,274
+Barueri,17370,568
+Caruaru,17304,458
+Governador Valadares,17241,614
+Linhares,17240,230
+São Leopoldo,17118,336
+Uberaba,17102,400
+Camaçari,16796,319
+Araçatuba,16574,357
+Toledo,16487,179
+Sobral,16352,377
+Franca,16334,389
+Duque de Caxias,16115,1083
+Mauá,16088,833
+Colatina,15826,236
+São José dos Pinhais,15813,398
+Tubarão,15739,249
+Santarém,15625,672
+Diadema,15517,591
+Indaiatuba,15435,357
+Araucária,15272,191
+Mossoró,15202,328
+Ananindeua,15139,470
+Olinda,15064,640
+Jaraguá do Sul,14707,163
+Taubaté,14506,229
+Ilhéus,14498,331
+Lauro de Freitas,14469,248
+Limeira,14358,351
+Ariquemes,14298,266
+Sinop,14017,218
+Gravataí,13819,422
+Caucaia,13739,495
+Paranaguá,13493,204
+Marília,13092,244
+Alvorada,13043,401
+Nova Iguaçu,12977,1076
+Marabá,12942,294
+Taboão da Serra,12927,442
+Sumaré,12801,351
+Presidente Prudente,12787,312
+Hortolândia,12778,302
+Jequié,12764,245
+Araraquara,12762,270
+Jacareí,12733,295
+Guarujá,12730,618
+Sete Lagoas,12528,125
+Colombo,12459,349
+Maracanaú,12413,332
+Imperatriz,12042,542
+São Carlos,12042,150
+Americana,11948,312
+São Vicente,11920,643
+Nova Lima,11839,98
+Teixeira de Freitas,11792,174
+Rio Grande,11676,269
+São Caetano do Sul,11616,440
+Ji-Paraná,11547,305
+Luziânia,11535,187
+Suzano,11497,397
+Angra dos Reis,11276,355
+Santa Bárbara d'Oeste,11188,299
+Patos de Minas,11175,208
+Aracruz,11157,155
+Campo Largo,11121,206
+Lajeado,11025,115
+Sorriso,10992,142
+Nova Friburgo,10937,323
+Juazeiro,10916,190
+Praia Grande,10905,385
+Bento Gonçalves,10854,201
+Itabira,10695,94
+Santa Cruz do Sul,10663,105
+Barra Mansa,10498,303
+Tangará da Serra,10478,178
+Crato,10446,133
+Corumbá,10400,286
+Guarapuava,10388,147
+Guarapari,10258,235
+Pinhais,10118,228
+Barreiras,10017,117
+Itu,9893,179
+Cubatão,9880,291
+Parnaíba,9845,205
+Lucas do Rio Verde,9814,94
+Caraguatatuba,9748,235
+Senador Canedo,9712,148
+Camboriú,9676,109
+Araras,9583,193
+Alagoinhas,9532,164
+Patos,9489,156
+Paulínia,9471,124
+Araguari,9449,243
+Altamira,9427,188
+Valparaíso de Goiás,9364,188
+Erechim,9350,103
+Ribeirão das Neves,9341,273
+Vilhena,9328,152
+Bragança Paulista,9230,191
+Mogi Guaçu,9209,203
+Concórdia,9192,76
+Nossa Senhora do Socorro,9157,294
+Coari,9146,193
+Umuarama,9038,109
+Coronel Fabriciano,9001,177
+Itaquaquecetuba,9001,460
+Botucatu,8937,121
+Itabirito,8912,49
+Telêmaco Borba,8890,134
+Biguaçu,8871,109
+Parintins,8829,300
+Votuporanga,8821,176
+Itapema,8814,153
+Sapucaia do Sul,8769,243
+Santa Rosa,8716,89
+Sertãozinho,8699,176
+Cacoal,8519,129
+Barretos,8478,207
+Resende,8449,228
+Itapetininga,8446,132
+Cachoeirinha,8399,234
+Primavera do Leste,8327,161
+Caicó,8222,96
+Santo Antônio de Jesus,8104,82
+Pouso Alegre,8080,105
+Magé,8051,349
+Francisco Beltrão,8036,78
+Iranduba,8021,132
+Sapiranga,7968,199
+Cabo Frio,7957,362
+Cotia,7951,297
+Birigui,7914,213
+Arapongas,7830,253
+Redenção,7818,93
+Santana de Parnaíba,7789,179
+Itaituba,7778,113
+Tefé,7730,160
+Balsas,7725,95
+São Mateus,7721,168
+Maranguape,7659,141
+Fazenda Rio Grande,7657,169
+Cambé,7656,116
+Piraquara,7623,163
+Três Lagoas,7580,93
+Muriaé,7575,127
+Divinópolis,7572,173
+Campo Bom,7472,134
+Ituiutaba,7437,172
+São Gabriel da Cachoeira,7406,103
+Crateús,7394,126
+Esteio,7394,220
+Serra Talhada,7368,105
+Manacapuru,7348,289
+Valinhos,7338,200
+Gurupi,7322,103
+Garanhuns,7322,134
+Xanxerê,7318,109
+Jataí,7271,152
+Rio Claro,7269,237
+Eunápolis,7245,108
+Maricá,7240,233
+Araranguá,7179,124
+Timóteo,7172,181
+Paulista,7153,529
+Itabaiana,7117,133
+Laranjal do Jari,7090,67
+Mineiros,7071,128
+Teófilo Otoni,7042,153
+Itaboraí,6960,439
+Ubá,6958,119
+Varginha,6927,134
+Barcarena,6889,140
+Indaial,6887,65
+Ijuí,6833,102
+Lençóis Paulista,6819,76
+Itacoatiara,6805,273
+Catalão,6778,207
+Três Rios,6771,146
+Osório,6743,87
+Humaitá,6736,122
+Venâncio Aires,6711,74
+Araxá,6708,78
+Ibirité,6708,160
+Petrópolis,6693,563
+Porto Seguro,6673,132
+Embu das Artes,6656,259
+Conceição do Coité,6611,24
+Caxias,6582,119
+Oriximiná,6575,78
+São João de Meriti,6560,681
+Conselheiro Lafaiete,6511,77
+Gramado,6500,86
+Cruzeiro do Sul,6491,125
+Catanduva,6473,226
+Unaí,6454,102
+Campo Mourão,6416,98
+Pindamonhangaba,6398,137
+Ferraz de Vasconcelos,6393,201
+Goianésia,6390,131
+Atibaia,6353,126
+Jaú,6346,252
+Canaã dos Carajás,6331,62
+Guarabira,6184,87
+Viamão,6157,381
+Almirante Tamandaré,6149,176
+Cametá,6144,144
+Cáceres,6131,183
+Brumado,6098,81
+Francisco Morato,6094,179
+Ourinhos,6069,114
+Irecê,6010,62
+Fernandópolis,6006,113
+Navegantes,5989,93
+Itumbiara,5988,132
+Gaspar,5969,99
+Santa Rita,5959,213
+Cabedelo,5948,122
+Abaetetuba,5931,130
+Itaúna,5894,76
+Floriano,5885,85
+Iguatu,5853,122
+Caldas Novas,5810,106
+Itapevi,5804,330
+Castanhal,5769,230
+Braço do Norte,5765,49
+Carauari,5752,43
+Videira,5722,54
+Inhumas,5713,100
+Extrema,5709,64
+Rio do Sul,5708,41
+Picos,5684,108
+Castro,5678,80
+Trindade,5677,231
+Rio das Ostras,5671,204
+Russas,5667,86
+Mogi Mirim,5667,137
+Sarandi,5647,78
+Timon,5640,203
+Luís Eduardo Magalhães,5640,53
+Pato Branco,5619,95
+Formosa,5616,112
+Uruguaiana,5573,122
+Olímpia,5558,109
+Águas Lindas de Goiás,5556,162
+Piripiri,5534,91
+São Cristóvão,5528,130
+Lins,5528,136
+Itaperuna,5526,141
+Salto,5517,122
+Presidente Figueiredo,5498,88
+Porto Nacional,5486,91
+Leme,5485,125
+Mariana,5484,45
+Sousa,5471,81
+Nova Mutum,5466,64
+Cajazeiras,5465,96
+Marau,5465,60
+Santa Inês,5461,101
+Imbituba,5434,58
+Colinas do Tocantins,5433,54
+Lábrea,5428,66
+Paragominas,5362,136
+Cruz Alta,5308,100
+Franco da Rocha,5285,161
+Montenegro,5282,73
+Timbó,5262,45
+Valença,5260,97
+Paracatu,5250,75
+Guaramirim,5238,46
+Barra do Garças,5235,175
+Caratinga,5216,162
+Santa Luzia,5209,180
+Viana,5202,131
+Simões Filho,5194,129
+Tianguá,5186,99
+Itatiba,5153,52
+Alta Floresta,5149,59
+São Francisco do Sul,5124,80
+Candeias,5110,88
+Patrocínio,5099,115
+Farroupilha,5065,70
+Paranavaí,5057,91
+Poços de Caldas,5025,149
+Capão da Canoa,5020,104
+Itajubá,5018,178
+Canela,5010,111
+São Borja,4997,109
+Ilhabela,4976,31
+Tijucas,4964,59
+São Gonçalo do Amarante,4957,109
+Caieiras,4950,144
+Cianorte,4947,67
+Vinhedo,4946,70
+Jaru,4944,71
+Quixadá,4943,101
+Rolândia,4932,128
+Guajará-Mirim,4917,160
+Ponta Porã,4910,102
+Itaberaba,4884,82
+Óbidos,4869,79
+Naviraí,4867,95
+Ribeirão Pires,4849,161
+Eusébio,4827,83
+Carazinho,4796,82
+Guanambi,4772,39
+Poá,4768,195
+Içara,4766,52
+Sant'Ana do Livramento,4762,41
+Salgueiro,4758,74
+Itapipoca,4748,136
+Rolim de Moura,4744,79
+Paraíso do Tocantins,4721,65
+Jacobina,4712,36
+Bagé,4694,107
+Bayeux,4693,161
+Formiga,4675,30
+Votorantim,4671,159
+Dois Vizinhos,4656,44
+Tauá,4654,77
+Estância,4646,111
+Santa Cruz do Capibaribe,4640,91
+Itapecerica da Serra,4635,240
+Oiapoque,4632,30
+Pirassununga,4617,71
+Mirassol,4558,91
+Cidade Ocidental,4536,56
+Araripina,4532,79
+Congonhas,4527,37
+Tatuí,4527,140
+Medianeira,4523,51
+Barra do Corda,4517,48
+Torres,4493,54
+São Bento,4468,47
+Apucarana,4451,148
+João Monlevade,4445,99
+São Gabriel,4445,89
+Parobé,4423,106
+Morada Nova,4419,75
+Ubatuba,4417,78
+Serrinha,4405,32
+Alfenas,4399,98
+Tarauacá,4396,20
+Guaíba,4395,160
+Arujá,4393,141
+Manhuaçu,4389,120
+Assis,4387,87
+Marataízes,4376,108
+Guaratinguetá,4376,108
+Jaguaquara,4372,32
+Apodi,4329,52
+Tucumã,4317,43
+Zé Doca,4299,47
+Arcoverde,4289,87
+Morrinhos,4276,62
+Brejo Santo,4273,47
+Lagarto,4219,124
+Itamaraju,4212,64
+Rio Preto da Eva,4205,59
+Açailândia,4193,131
+Tucuruí,4173,160
+Palmeiras de Goiás,4160,39
+Marechal Deodoro,4156,57
+Santana do Paraíso,4143,66
+Sena Madureira,4141,35
+Mairiporã,4128,114
+Machadinho D'Oeste,4123,44
+São Gonçalo do Amarante,4123,95
+Dias d'Ávila,4117,90
+Careiro,4105,76
+Catu,4088,49
+São Gabriel da Palha,4077,46
+São Sebastião,4074,78
+Campo Novo do Parecis,4066,41
+Pomerode,4040,41
+Ipixuna,4037,17
+Cachoeira do Sul,4022,57
+Caçapava,4021,100
+Tramandaí,4016,118
+Frutal,3994,99
+Barcelos,3984,52
+Barbacena,3984,92
+São Bento do Sul,3980,46
+São Paulo de Olivença,3963,57
+Viçosa,3958,34
+Barra dos Coqueiros,3940,43
+Campo Verde,3940,71
+Itapetinga,3928,78
+Queimados,3920,116
+Porto Feliz,3917,46
+Itapira,3916,75
+Campo Maior,3887,79
+Rio Bonito,3884,122
+Guapimirim,3878,117
+Bacabal,3877,100
+Santa Luzia,3877,40
+Horizonte,3872,91
+Passos,3871,84
+Joaçaba,3871,27
+Castelo,3868,59
+Itaguaí,3865,205
+Panambi,3862,47
+Vacaria,3862,62
+Santa Helena de Goiás,3862,119
+Araruama,3798,120
+Jandira,3792,138
+Ibiporã,3790,58
+Barra do Piraí,3783,164
+Santo Ângelo,3783,106
+Ourilândia do Norte,3764,23
+Caçador,3756,107
+Camaquã,3744,67
+Marechal Cândido Rondon,3723,48
+Buritis,3707,38
+Jales,3700,122
+Ponte Nova,3696,76
+Laguna,3691,71
+São João da Boa Vista,3689,93
+Registro,3688,93
+Eirunepé,3674,21
+Icó,3659,56
+Alegrete,3659,104
+Paulo Afonso,3647,89
+Barras,3626,68
+Campina Grande do Sul,3616,58
+Santiago,3610,53
+Breves,3609,102
+Santo Antônio da Patrulha,3607,88
+Avaré,3604,68
+Camaragibe,3585,249
+Itapeva,3578,98
+Colíder,3578,66
+Dracena,3577,121
+Cornélio Procópio,3556,69
+Orleans,3547,39
+Quixeramobim,3546,114
+Irati,3539,43
+Aquidauana,3526,92
+Nova Venécia,3524,68
+Maués,3521,87
+Pontes e Lacerda,3520,113
+Várzea Paulista,3519,100
+Grajaú,3516,67
+Garibaldi,3509,30
+Aracati,3492,81
+São Félix do Xingu,3481,27
+Cosmópolis,3478,58
+Açu,3460,97
+Vitória do Jari,3455,16
+Pacatuba,3446,113
+Mamanguape,3436,51
+São João del Rei,3435,67
+Acaraú,3422,68
+Guaratuba,3422,90
+Xinguara,3415,30
+Goiana,3415,97
+Cruz das Almas,3409,38
+Ibitinga,3406,78
+Santa Maria de Jetibá,3398,29
+São João Batista,3387,47
+São Miguel do Oeste,3385,30
+Bertioga,3382,68
+Peruíbe,3372,88
+São Roque,3370,38
+Sidrolândia,3370,50
+Xaxim,3362,81
+Penha,3354,54
+Santa Teresa,3348,31
+Santa Quitéria,3344,29
+Novo Gama,3325,104
+Itupeva,3321,53
+Santa Isabel,3320,122
+Capinzal,3316,22
+Bragança,3314,108
+Cabo de Santo Agostinho,3311,326
+Andradina,3309,118
+Eldorado do Sul,3307,62
+Campos Novos,3303,36
+Monte Alegre,3301,103
+Pimenta Bueno,3293,41
+Penápolis,3276,86
+Cataguases,3265,75
+Sabará,3253,104
+Senhor do Bonfim,3243,48
+Lagoa Santa,3242,44
+Palotina,3233,42
+Jaraguá,3220,92
+Nova Odessa,3212,85
+Três Corações,3201,70
+Canoinhas,3198,43
+Balneário Piçarras,3196,28
+Boituva,3193,50
+Promissão,3187,31
+Monte Carmelo,3176,105
+Santana do Ipanema,3164,40
+Juruti,3162,131
+Jacarezinho,3161,30
+Estreito,3155,32
+Paraíba do Sul,3128,99
+Maracaju,3123,40
+Tabatinga,3117,113
+Pontal,3112,77
+Camocim,3111,95
+Pedra Branca do Amapari,3108,8
+Vitória de Santo Antão,3106,187
+Ipu,3096,45
+Barbalha,3095,59
+Serrana,3085,61
+Anchieta,3067,42
+Venda Nova do Imigrante,3067,30
+Arcos,3046,28
+Mafra,3035,32
+Amparo,3029,70
+Cruzeiro,3029,50
+Estância Velha,3021,73
+Ouro Preto,3018,55
+Santo Amaro da Imperatriz,3018,42
+Aquiraz,3004,52
+Itanhaém,3004,128
+Chapadinha,2994,70
+Mococa,2993,53
+Bombinhas,2982,35
+São Sebastião do Paraíso,2981,101
+Capivari de Baixo,2977,35
+Altos,2974,46
+Manicoré,2972,63
+Armação dos Búzios,2964,28
+Rio Branco do Sul,2959,64
+Pacajus,2956,72
+Pedro Leopoldo,2956,50
+Itapemirim,2952,78
+Leopoldina,2945,64
+Charqueadas,2939,36
+Bebedouro,2934,58
+Rurópolis,2922,39
+Araci,2903,31
+Guaporé,2898,41
+Cerquilho,2893,49
+Capivari,2893,55
+Marialva,2892,44
+Palmeira dos Índios,2888,64
+Teutônia,2888,48
+Mata de São João,2881,29
+Maravilha,2880,35
+Frederico Westphalen,2866,38
+Candeias do Jamari,2848,55
+Capim Grosso,2845,18
+Oeiras,2840,39
+Ipiaú,2840,56
+Lorena,2839,68
+Janaúba,2827,43
+Três Pontas,2824,49
+Seabra,2821,16
+Itapiranga,2819,26
+Tailândia,2818,52
+Santo Antônio de Pádua,2817,44
+Goiatuba,2815,53
+Barra Velha,2810,58
+Palmas,2805,33
+São Raimundo Nonato,2803,33
+José Bonifácio,2798,42
+Forquilhinha,2793,25
+Porto Ferreira,2792,67
+Palmares,2789,88
+Taquaritinga,2786,85
+Ibirubá,2785,27
+Espírito Santo do Pinhal,2782,55
+Jaboticabal,2770,71
+São Pedro da Aldeia,2769,123
+Embu-Guaçu,2768,76
+Ouro Preto do Oeste,2754,69
+Campo Belo,2748,63
+Nanuque,2746,77
+Pirapora,2743,28
+Urussanga,2736,41
+Uruçuí,2724,37
+Afuá,2723,14
+Itororó,2722,24
+Cascavel,2721,96
+Campo Formoso,2721,27
+Casimiro de Abreu,2719,63
+Afonso Cláudio,2704,44
+Canindé,2697,96
+Buriticupu,2694,33
+Coruripe,2692,37
+Campos do Jordão,2689,42
+Campo Limpo Paulista,2684,104
+Pombal,2683,37
+Guaxupé,2674,45
+São João da Barra,2673,14
+Santa Isabel do Rio Negro,2669,44
+Monte Mor,2669,54
+Tapejara,2663,22
+Cordeirópolis,2661,32
+Pau dos Ferros,2659,12
+Barra de São Francisco,2659,82
+Benevides,2651,60
+Carlos Barbosa,2651,26
+Cajati,2648,56
+Limoeiro do Norte,2646,53
+Bezerros,2635,80
+Morro da Fumaça,2633,28
+União da Vitória,2630,32
+Rolante,2629,28
+Alta Floresta D'Oeste,2617,36
+Taquara,2616,98
+Sapezal,2614,28
+Colinas,2605,40
+Paiçandu,2605,50
+Almenara,2599,27
+Viçosa do Ceará,2596,63
+São Miguel dos Campos,2592,55
+Américo Brasiliense,2592,53
+Xapuri,2591,20
+Estrela,2589,38
+Riachão do Jacuípe,2584,29
+Baixo Guandu,2584,48
+Nilópolis,2565,322
+São Sebastião do Passé,2562,42
+Garopaba,2560,19
+Conceição do Araguaia,2553,36
+Lagoa da Prata,2553,42
+Domingos Martins,2552,40
+Herval d'Oeste,2550,26
+Veranópolis,2541,28
+Iguaba Grande,2540,56
+Piraí,2530,29
+Chapadão do Sul,2528,27
+Macaíba,2527,106
+Pauini,2525,17
+Afogados da Ingazeira,2523,36
+Autazes,2520,83
+Rorainópolis,2513,40
+Mesquita,2504,270
+Cabreúva,2502,55
+Guaíra,2502,59
+Mocajuba,2497,39
+São Lourenço,2497,45
+Nova Mamoré,2496,43
+Taquari,2495,46
+Goianira,2495,51
+Mandaguari,2492,47
+Cajamar,2490,101
+Itaperuçu,2488,57
+Mazagão,2487,10
+Jaguaré,2485,32
+Juara,2482,35
+Jaguariúna,2477,49
+São Luís de Montes Belos,2473,50
+Alvarães,2470,35
+Peixoto de Azevedo,2470,72
+Atalaia do Norte,2468,7
+Benjamin Constant,2468,66
+Pesqueira,2468,52
+Almeirim,2466,21
+Curvelo,2458,81
+Lapa,2456,36
+Tabuleiro do Norte,2455,27
+Rosário do Sul,2453,61
+Sombrio,2449,39
+Assis Chateaubriand,2447,33
+Pinheiro,2440,52
+São Lourenço da Mata,2440,161
+Uruaçu,2440,47
+Santa Cruz,2439,37
+Catolé do Rocha,2435,37
+Rio Brilhante,2435,29
+Tupã,2425,95
+Tobias Barreto,2422,57
+João Pinheiro,2422,32
+Ibatiba,2415,52
+São José de Mipibu,2408,30
+Novo Horizonte,2400,50
+Fraiburgo,2397,36
+Sarandi,2395,34
+Rio Negrinho,2384,9
+Jaciara,2379,66
+Tanabi,2378,46
+Coroatá,2368,48
+Mombaça,2366,65
+Flores da Cunha,2364,26
+Planaltina,2364,83
+São Joaquim da Barra,2363,43
+Nova Olinda do Norte,2361,56
+Orlândia,2356,69
+Pará de Minas,2352,64
+Morro Agudo,2351,34
+Nova Serrana,2348,81
+Redenção,2344,50
+Gandu,2342,39
+Piedade,2340,67
+Matão,2335,66
+Iporá,2333,59
+Bom Jesus,2330,27
+Ouro Branco,2329,23
+Itarema,2322,31
+Jaguaribe,2321,46
+Boca do Acre,2316,21
+Pederneiras,2311,59
+Schroeder,2311,17
+Penedo,2308,25
+Guareí,2308,9
+Brumadinho,2306,34
+Soledade,2301,32
+Queimadas,2299,36
+Igrejinha,2293,62
+Pitangueiras,2287,59
+Pinhalzinho,2286,17
+Currais Novos,2283,36
+Araquari,2282,36
+Paranatinga,2281,47
+Monte Alto,2279,61
+Itararé,2274,48
+Monteiro,2272,25
+Portel,2267,61
+Jaguaruna,2264,33
+Barra Bonita,2260,51
+Cocal do Sul,2257,31
+São Pedro,2254,32
+Porto Belo,2251,19
+Iracemápolis,2249,28
+Timbaúba,2244,64
+Caarapó,2231,18
+Urucurituba,2228,31
+Bom Despacho,2226,44
+Artur Nogueira,2224,54
+Visconde do Rio Branco,2220,51
+Valença,2214,56
+José de Freitas,2208,28
+Ulianópolis,2200,19
+Guaraí,2198,40
+São Miguel do Iguaçu,2198,34
+Lavras,2196,48
+Delmiro Gouveia,2195,49
+Santana do Araguaia,2190,17
+São Benedito,2187,41
+São Gotardo,2185,50
+Palmeira das Missões,2178,35
+Bom Jesus das Selvas,2173,19
+Campo Magro,2168,48
+Vazante,2167,34
+Exu,2166,29
+Pedreiras,2162,45
+Otacílio Costa,2159,22
+Ivoti,2157,34
+Lagoa Vermelha,2151,29
+Feijó,2150,35
+Coronel Vivida,2147,40
+Barreirinha,2146,54
+Medicilândia,2145,20
+Campo Alegre,2143,52
+São Miguel do Guamá,2138,45
+Barão de Cocais,2137,19
+Capão Bonito,2130,59
+Mimoso do Sul,2129,28
+Guabiruba,2126,27
+São Francisco do Conde,2123,33
+Alagoa Grande,2121,41
+Bom Jesus do Itabapoana,2119,43
+Ecoporanga,2112,36
+Ituporanga,2108,25
+Acarape,2107,15
+Camacan,2104,49
+Maracás,2103,35
+Juína,2103,70
+Nova Prata,2102,24
+Santa Fé do Sul,2093,56
+Marechal Floriano,2090,32
+Novo Airão,2088,28
+Iturama,2087,45
+Pojuca,2086,23
+Mandirituba,2083,34
+Ribeira do Pombal,2082,34
+Codó,2070,125
+Santa Cruz das Palmeiras,2069,37
+Rio Largo,2068,82
+Vila Bela da Santíssima Trindade,2065,38
+Bom Jesus da Lapa,2063,23
+Mucuri,2062,32
+Curuçá,2057,64
+Itaitinga,2053,43
+Mairinque,2053,27
+Bandeirantes,2053,53
+Ibirataia,2051,31
+Curitibanos,2051,49
+Imbituva,2047,48
+Guariba,2045,46
+Simão Dias,2042,56
+Garça,2042,46
+Poções,2041,33
+Presidente Médici,2040,29
+Santo Estêvão,2037,26
+Cachoeiras de Macacu,2032,63
+Madre de Deus,2027,29
+Pilar,2023,30
+Propriá,2023,48
+Pedreira,2023,29
+Três Passos,2021,43
+Santa Helena,2017,28
+Capanema,2012,76
+Marituba,2012,86
+Camanducaia,2010,26
+São Gabriel do Oeste,2009,28
+Sooretama,2008,35
+Dois Irmãos,2007,34
+Jaguariaíva,2004,40
+Boa Viagem,2000,51
+Ingá,2000,24
+Mirassol d'Oeste,1997,51
+Sapucaia,1996,60
+São Luiz Gonzaga,1993,38
+São Sebastião do Caí,1989,23
+Mangaratiba,1988,62
+Pedro II,1987,45
+Nova Petrópolis,1981,25
+Brasiléia,1974,27
+Descalvado,1969,28
+Caçapava do Sul,1962,33
+Guaíra,1954,34
+Esperança,1953,29
+Beberibe,1951,35
+Bela Cruz,1950,31
+Governador Celso Ramos,1950,14
+Quedas do Iguaçu,1947,41
+Solânea,1944,26
+Saquarema,1944,144
+Beruri,1941,31
+Conceição do Jacuípe,1941,15
+Guarantã do Norte,1939,36
+Carangola,1937,44
+Mantena,1936,44
+Frecheirinha,1935,17
+Tanguá,1930,64
+Ibaté,1930,34
+Surubim,1928,49
+Alenquer,1925,49
+Belo Jardim,1924,47
+Conceição das Alagoas,1922,38
+Gravatá,1918,92
+Bariri,1918,63
+Pacaraima,1915,32
+Mauriti,1914,50
+São Ludgero,1914,12
+Itajuípe,1908,43
+Piúma,1905,52
+Mandaguaçu,1905,16
+Três Coroas,1905,33
+Itabaiana,1902,43
+Carambeí,1896,32
+São Manuel,1895,42
+Nova Xavantina,1895,23
+Quatro Barras,1893,43
+São Lourenço do Sul,1891,40
+Louveira,1889,30
+Ponta de Pedras,1887,17
+Tabira,1887,19
+Confresa,1887,36
+Ipojuca,1885,110
+Serafina Corrêa,1882,11
+Além Paraíba,1880,73
+Itaporanga d'Ajuda,1879,46
+Santa Cruz do Rio Pardo,1879,30
+Iconha,1878,12
+Amargosa,1876,33
+São Felipe,1875,6
+Itaberaí,1874,69
+Nova Veneza,1872,12
+Alexânia,1872,28
+Não-Me-Toque,1870,27
+Pinheiral,1868,37
+Quirinópolis,1866,39
+Matinhos,1864,50
+Amaturá,1863,15
+Ladário,1863,45
+Rio Tinto,1861,37
+Santa Terezinha de Itaipu,1859,39
+Ceres,1854,34
+Mucajaí,1852,30
+Portão,1851,59
+Amambai,1848,35
+Caracaraí,1847,35
+Luzilândia,1847,34
+Paranaíba,1847,46
+Anicuns,1847,38
+Jacareacanga,1846,19
+Ivaiporã,1843,37
+Euclides da Cunha,1842,20
+Vitorino Freire,1841,42
+Acopiara,1841,76
+Lago da Pedra,1839,56
+Andradas,1836,43
+Três de Maio,1833,17
+Sapé,1832,76
+Bady Bassitt,1830,26
+Itapoá,1829,33
+São Raimundo das Mangabeiras,1823,17
+Maraã,1822,12
+Igarassu,1822,148
+Carpina,1821,83
+Porciúncula,1817,47
+Macatuba,1816,22
+Nova Granada,1816,38
+Barra do Bugres,1816,42
+Conceição do Mato Dentro,1815,7
+Arapoti,1815,22
+Chopinzinho,1813,31
+Cedro,1806,22
+Pires do Rio,1806,60
+Santo Antônio do Descoberto,1803,44
+Cassilândia,1802,47
+Itápolis,1800,39
+Niquelândia,1799,38
+São José de Ribamar,1798,164
+Pentecoste,1797,43
+Imbé,1797,58
+Agudos,1796,34
+Santa Helena,1793,10
+Urucará,1788,48
+Demerval Lobão,1788,7
+Anori,1785,29
+Nossa Senhora da Glória,1785,37
+Lajinha,1785,23
+Socorro,1785,22
+Jardinópolis,1782,68
+Tartarugalzinho,1780,10
+Baixa Grande do Ribeiro,1778,17
+Miranda,1770,55
+Mâncio Lima,1769,19
+Camamu,1768,34
+Jandaia do Sul,1759,35
+Santo Amaro,1758,43
+Santo Antônio da Platina,1757,28
+Gurupá,1756,11
+Canguçu,1754,31
+Alfredo Chaves,1753,24
+Itaqui,1753,21
+Coxim,1753,38
+Belo Oriente,1752,28
+Cruz,1751,17
+Bataguassu,1751,17
+Espigão D'Oeste,1746,26
+Jaguaruana,1746,38
+Itapuranga,1745,41
+São João dos Patos,1742,18
+Paraguaçu Paulista,1736,37
+Piracaia,1735,11
+Poconé,1735,43
+Santa Cruz Cabrália,1733,19
+Piumhi,1731,40
+Oliveira,1730,19
+Cordeiro,1730,5
+Santa Vitória do Palmar,1729,17
+Abreu e Lima,1724,159
+Astorga,1718,25
+João Neiva,1716,28
+Urbano Santos,1714,15
+Paracambi,1713,60
+Salto de Pirapora,1713,65
+Igarapé-Miri,1708,47
+João Câmara,1708,25
+Laranjal Paulista,1706,19
+São Domingos do Maranhão,1705,13
+Iúna,1703,51
+Extremoz,1700,38
+Batatais,1700,53
+Concórdia do Pará,1699,20
+Várzea Alegre,1699,45
+Vila Valério,1698,17
+Cristalina,1697,40
+Tocantinópolis,1695,29
+Massaranduba,1692,15
+Curionópolis,1691,22
+Aparecida do Taboado,1691,25
+Ivinhema,1690,25
+Bonfim,1687,23
+Tietê,1687,33
+São Marcos,1687,22
+São José dos Quatro Marcos,1687,49
+Adamantina,1685,39
+Rubiataba,1685,33
+Alto Alegre do Pindaré,1684,26
+Muniz Freire,1684,19
+Tapauá,1680,19
+Guararapes,1679,27
+Porangatu,1679,57
+Uauá,1678,25
+Paracuru,1675,51
+Sertânia,1675,21
+Sumé,1674,16
+Seara,1673,17
+Bom Jesus de Goiás,1672,49
+Ipueiras,1671,35
+Cantá,1670,19
+Novo Progresso,1667,18
+Livramento de Nossa Senhora,1667,16
+Rancharia,1665,25
+Seberi,1665,19
+Sananduva,1664,22
+Fundão,1663,41
+Ibiúna,1661,43
+Conceição do Almeida,1659,15
+Tucano,1659,20
+Gravatal,1658,19
+Porto Grande,1655,20
+Orós,1651,51
+Santaluz,1649,27
+Espera Feliz,1649,23
+Varre-Sai,1648,5
+Paraty,1648,46
+Pacajá,1644,21
+Lauro Müller,1644,27
+Santa Gertrudes,1635,29
+Pinheiros,1631,39
+Coreaú,1628,19
+Antonina,1628,42
+Uarini,1626,22
+Valente,1626,12
+Nova Hartz,1626,25
+Santo Antônio do Içá,1625,39
+Coromandel,1625,69
+Guaçuí,1625,68
+Pontal do Paraná,1622,43
+Augusto Corrêa,1621,29
+Água Boa,1619,31
+Ibicaraí,1618,44
+Bonito,1616,23
+Conde,1611,24
+Querência,1611,22
+Matelândia,1610,21
+Paranaíta,1609,19
+Pedras de Fogo,1605,41
+Nazaré,1603,23
+Nhamundá,1602,31
+Esperantina,1601,41
+Morro do Chapéu,1600,13
+São José do Egito,1597,19
+Carmo do Paranaíba,1595,42
+Bela Vista de Goiás,1593,31
+Coelho Neto,1591,40
+Marilândia,1587,21
+Limoeiro,1586,76
+Nova Andradina,1585,34
+Canarana,1585,24
+São Miguel do Guaporé,1584,25
+Vargem Grande do Sul,1584,27
+Lagoa Formosa,1580,38
+Granja,1578,45
+Cruzeiro do Oeste,1575,34
+Tupaciguara,1574,37
+Presidente Dutra,1573,12
+Maragogipe,1572,30
+Sacramento,1566,32
+Aragarças,1564,29
+Itaporanga,1563,20
+Cambuí,1563,22
+Aripuanã,1563,23
+Cantagalo,1561,8
+Tuntum,1557,8
+Piraí do Sul,1557,28
+Calçoene,1556,9
+Formoso do Araguaia,1554,26
+Medeiros Neto,1553,38
+Capanema,1553,12
+Sítio Novo,1551,17
+Igarapé,1551,31
+Conceição de Macabu,1549,36
+São Domingos do Araguaia,1546,21
+Itabaianinha,1546,43
+Novo Aripuanã,1543,24
+Rio das Pedras,1543,48
+Santa Rita de Cássia,1540,16
+Dom Pedrito,1535,21
+Muritiba,1531,14
+Vassouras,1531,31
+Engenheiro Coelho,1530,25
+Anamã,1526,4
+Luiz Alves,1523,6
+Quissamã,1521,37
+Arroio do Meio,1521,14
+Crixás,1519,28
+Santa Bárbara,1518,17
+Anastácio,1518,44
+Cláudio,1517,18
+São José de Piranhas,1513,32
+Areia Branca,1512,63
+Lagoa Seca,1512,30
+Várzea da Palma,1512,20
+Horizontina,1511,13
+União,1509,33
+Igaratá,1509,13
+Codajás,1508,18
+Caraúbas,1508,17
+Borba,1505,44
+Barra do Choça,1504,21
+Itapajé,1501,81
+Vargem Alta,1501,25
+Miracema,1501,8
+Hidrolândia,1498,33
+Loanda,1497,22
+Caroebe,1496,15
+Palmeira,1496,29
+Jucurutu,1492,22
+Cândido Sales,1491,39
+Mari,1490,24
+Juatuba,1488,31
+Juquitiba,1488,31
+Araçoiaba da Serra,1486,33
+Taió,1484,13
+Fátima do Sul,1484,34
+Vitória do Xingu,1483,22
+Potirendaba,1482,30
+Girau do Ponciano,1481,26
+Feliz,1479,14
+Rio Bananal,1477,18
+Lavras da Mangabeira,1475,29
+Envira,1474,2
+Igarapé-Açu,1474,35
+Barreirinhas,1474,29
+Coaraci,1467,34
+Ibaiti,1467,36
+Farias Brito,1466,26
+Ceará-Mirim,1466,66
+São José do Belmonte,1464,27
+Miranorte,1462,26
+Xambioá,1461,18
+Jijoca de Jericoacoara,1459,14
+Varjota,1459,20
+Matozinhos,1459,24
+Águia Branca,1458,20
+Realeza,1457,14
+Nova Trento,1457,6
+Buíque,1456,23
+Chapadão do Céu,1456,10
+Santos Dumont,1453,41
+Milagres,1452,31
+Boa Esperança,1451,42
+Presidente Kennedy,1449,34
+Seropédica,1449,116
+São Gonçalo dos Campos,1448,20
+Brejo da Madre de Deus,1447,38
+Turvo,1446,10
+Ubatã,1445,26
+São Mateus do Maranhão,1444,26
+Paraipaba,1443,34
+Aparecida,1442,38
+Boca da Mata,1441,30
+Pirapozinho,1441,35
+Moju,1440,39
+Costa Rica,1440,27
+Iracema,1438,18
+Hidrolândia,1437,11
+Amélia Rodrigues,1436,27
+Teotônio Vilela,1435,45
+Nova Viçosa,1435,29
+Pancas,1432,19
+Tapurah,1428,17
+Ouricuri,1424,49
+Uruará,1423,17
+Rio Maria,1421,11
+Canindé de São Francisco,1421,15
+Santo Antônio de Posse,1421,17
+Presidente Tancredo Neves,1420,26
+Ipameri,1420,45
+Belém,1419,24
+Pompéu,1419,17
+Balneário Arroio do Silva,1419,31
+Araguatins,1418,40
+Paudalho,1413,56
+Morretes,1412,30
+Santa Rita do Sapucaí,1410,30
+Santo Antônio do Monte,1409,21
+Colorado,1408,27
+São Joaquim,1407,30
+Valença do Piauí,1406,33
+Aquidabã,1404,22
+União dos Palmares,1402,61
+Caetité,1402,10
+Monte Aprazível,1402,30
+Carira,1401,27
+Monte Sião,1398,15
+Capela,1397,29
+Porto União,1397,22
+Tambaú,1396,25
+São Mateus do Sul,1394,24
+São Francisco do Guaporé,1393,24
+Quixeré,1393,16
+Garuva,1392,20
+Santana do Acaraú,1391,34
+Capinópolis,1391,24
+Vespasiano,1388,70
+Pindobaçu,1387,24
+Carlos Chagas,1387,11
+Jutaí,1386,32
+Macaúbas,1386,7
+Itaocara,1384,57
+Taquarituba,1382,20
+Brodowski,1379,35
+Sangão,1379,7
+Miguel Calmon,1378,12
+Alegre,1377,32
+Bodocó,1376,19
+Esmeraldas,1376,48
+Mozarlândia,1374,13
+Jaguarari,1371,20
+Ubajara,1370,31
+São Sebastião do Uatumã,1369,17
+Carmo,1369,15
+Itapiranga,1369,11
+Riachão,1368,13
+Ilhota,1368,14
+Nova Bassano,1368,9
+Itaiópolis,1367,20
+Itambé,1366,15
+Poção de Pedras,1365,11
+Prata,1365,41
+Pariquera-Açu,1365,29
+Dom Eliseu,1364,14
+Reriutaba,1363,21
+Miguel Pereira,1362,32
+Ipirá,1361,25
+Guanhães,1361,15
+Monção,1360,19
+Xique-Xique,1360,26
+São João Nepomuceno,1360,19
+Presidente Venceslau,1357,53
+Pirapetinga,1356,9
+Vargem Grande Paulista,1355,41
+Uruçuca,1354,37
+Buritama,1352,36
+Capitão Poço,1351,46
+Cariré,1350,24
+Taiobeiras,1350,10
+São José do Vale do Rio Preto,1350,23
+Manaquiri,1348,40
+Campo do Brito,1348,16
+Piracanjuba,1347,33
+Triunfo,1346,44
+Caaporã,1344,22
+Boquim,1344,28
+Pescaria Brava,1344,13
+Araporã,1343,17
+Sertanópolis,1343,14
+Guajará,1340,21
+Wenceslau Guimarães,1340,15
+Matupá,1340,13
+Rio Real,1334,25
+Guaraciaba do Norte,1331,23
+Presidente Epitácio,1331,40
+Correntina,1330,9
+Tremembé,1330,6
+Miracema do Tocantins,1326,15
+Guapiaçu,1325,39
+Palmitos,1324,27
+Antônio Prado,1323,12
+Nonoai,1323,34
+Itatira,1321,27
+São Miguel,1321,17
+Fonte Boa,1317,29
+Valparaíso,1316,31
+Três Barras,1316,26
+Corupá,1315,22
+Itapecuru Mirim,1314,23
+Diamantino,1313,26
+Itapaci,1310,33
+Tomé-Açu,1307,49
+Quixelô,1306,22
+Amontada,1305,24
+Ourolândia,1301,9
+Inhapim,1299,41
+Tupanciretã,1298,26
+Ipanema,1296,22
+Pirajuí,1296,22
+São José da Lapa,1295,20
+Ibirapitanga,1294,23
+São José do Rio Claro,1294,12
+Humberto de Campos,1291,8
+Porteirinha,1291,32
+Guapiara,1290,52
+Feira Nova do Maranhão,1288,5
+Acreúna,1288,31
+Ilha Solteira,1286,41
+Clevelândia,1286,53
+São Roque do Canaã,1284,13
+Presidente Getúlio,1279,16
+Vera Cruz,1279,15
+Itapororoca,1276,13
+Aimorés,1275,31
+Jataizinho,1275,19
+Candelária,1275,24
+Igarapé Grande,1274,11
+Ituberá,1274,38
+Alagoinha,1268,16
+Prainha,1267,55
+Coronel Freitas,1267,19
+Viseu,1264,23
+Encantado,1264,33
+Mundo Novo,1263,13
+Itaguaçu,1261,13
+Getúlio Vargas,1261,17
+Santa Izabel do Pará,1260,49
+Nova Russas,1259,25
+Porto Franco,1258,31
+São Bento do Una,1258,27
+Raposos,1258,15
+Mutuípe,1256,10
+Piracuruca,1253,32
+Campos Sales,1253,19
+Quitandinha,1253,22
+São Desidério,1252,14
+Silves,1250,22
+Pitanga,1249,10
+Casa Nova,1247,28
+Aguaí,1247,27
+Baturité,1246,38
+Massapê,1245,67
+Cândido Mota,1244,19
+Icapuí,1243,17
+Missão Velha,1243,14
+Antônio Carlos,1242,17
+Itabela,1241,32
+Serra Negra,1241,23
+Mateus Leme,1240,28
+Terra Santa,1238,44
+Cupira,1238,35
+Assis Brasil,1237,15
+Passagem Franca,1237,18
+Resplendor,1237,20
+Ibiraçu,1237,26
+Jarinu,1237,29
+Poço Verde,1236,26
+Itaporã,1236,20
+Nova Brasilândia D'Oeste,1235,14
+Ananás,1235,19
+Governador Lindenberg,1235,13
+Pé de Serra,1234,5
+Miguel Alves,1233,19
+Ibiá,1233,22
+Jaguaretama,1232,27
+Diamantina,1230,11
+Tibau do Sul,1229,9
+Conchal,1229,34
+Olho d'Água das Flores,1227,23
+Mendes,1227,4
+Ipixuna do Pará,1224,31
+Plácido de Castro,1222,12
+Sapeaçu,1222,12
+Tocantins,1219,13
+Nísia Floresta,1218,20
+Muqui,1215,20
+Faxinal dos Guedes,1214,15
+Aracoiaba,1213,20
+Maraú,1213,12
+Araputanga,1213,26
+Águas Belas,1212,26
+Barra,1212,17
+Cambará,1212,13
+Lapão,1210,12
+Catanduvas,1210,9
+Amarante do Maranhão,1209,38
+Jardim de Piranhas,1208,27
+Cachoeira Paulista,1208,26
+Minaçu,1208,27
+Cerejeiras,1207,19
+São José do Rio Pardo,1207,47
+Nova Esperança,1207,30
+Porto de Moz,1205,27
+Princesa Isabel,1205,30
+Floresta,1203,10
+Raul Soares,1200,18
+Brejetuba,1200,6
+Corbélia,1198,19
+Ferreira Gomes,1197,6
+Andirá,1197,34
+Pedra Preta,1197,39
+Angatuba,1196,25
+Jaguapitã,1195,17
+Remanso,1194,33
+Manhumirim,1194,23
+Iraquara,1193,8
+Nerópolis,1192,51
+Rio Paranaíba,1191,16
+Brejo do Cruz,1190,15
+Rodeio,1185,12
+Jussara,1185,22
+Cabrobó,1184,12
+Matriz de Camaragibe,1182,27
+Salinas da Margarida,1182,9
+Buri,1182,22
+Espumoso,1182,17
+Barra da Estiva,1181,8
+Rio Negro,1181,22
+Bom Conselho,1179,35
+Umbaúba,1179,27
+Casa Branca,1179,18
+Cafelândia,1179,6
+Curuá,1178,13
+Bela Vista do Paraíso,1178,28
+Vigia,1177,42
+Garrafão do Norte,1175,8
+Cuité,1174,8
+Inhambupe,1173,17
+Jaguarão,1173,17
+Mongaguá,1172,43
+Ortigueira,1170,16
+Pedro Canário,1166,28
+Giruá,1165,28
+Corrente,1163,13
+Anapu,1162,25
+Novo Cruzeiro,1159,18
+Tibagi,1159,32
+Nova Esperança do Piriá,1158,6
+Carnaíba,1157,22
+Palmital,1157,15
+Pouso Redondo,1157,16
+Quilombo,1156,30
+Pradópolis,1155,24
+Jacundá,1153,25
+Água Branca,1153,50
+Uruburetama,1149,31
+Goianinha,1149,13
+Marmeleiro,1149,19
+Alto Paraíso,1146,21
+Terra Boa,1145,13
+Tonantins,1144,33
+Limoeiro do Ajuru,1144,33
+Água Preta,1144,51
+Igaraçu do Tietê,1144,20
+Carapebus,1142,6
+Iguape,1140,37
+Pontalina,1139,19
+Laranjeiras do Sul,1135,13
+Severínia,1133,21
+Porteirão,1132,7
+Retirolândia,1131,5
+Chupinguaia,1130,14
+Paraopeba,1130,12
+Nova Alvorada do Sul,1130,14
+Bom Princípio,1125,19
+Paty do Alferes,1124,19
+Areia Branca,1123,25
+Porto Real,1123,27
+Valentim Gentil,1122,20
+São Benedito do Rio Preto,1120,10
+Amapá,1119,9
+Nova Santa Rita,1119,38
+Tenente Portela,1119,19
+Tutóia,1116,26
+Ouro Fino,1116,29
+Contenda,1111,8
+Alto Alegre,1110,23
+Ibirama,1110,21
+Cícero Dantas,1108,20
+Cruzeta,1107,8
+Buerarema,1107,33
+São João do Paraíso,1107,15
+Salinas,1106,24
+Prado,1103,23
+Caçu,1102,19
+Patu,1101,21
+Monte Alegre de Minas,1101,24
+Bocaiúva,1100,23
+Posse,1100,14
+Cujubim,1099,21
+Itanhandu,1099,25
+Pilar do Sul,1099,23
+Rio Grande da Serra,1098,48
+Ruy Barbosa,1097,11
+São Francisco de Itabapoana,1097,35
+Chorozinho,1095,20
+Alcobaça,1095,16
+Reserva,1095,23
+Tamboril,1094,10
+Capelinha,1094,12
+Ubaporanga,1091,31
+Oeiras do Pará,1090,28
+Auriflama,1090,22
+Tijucas do Sul,1089,39
+Pombos,1085,30
+Itaú de Minas,1085,7
+Trairi,1084,51
+Pirapora do Bom Jesus,1084,8
+Augustinópolis,1083,16
+Nossa Senhora das Dores,1083,31
+Miracatu,1082,37
+Buriti Bravo,1080,10
+Viradouro,1079,18
+Boqueirão,1078,19
+Terra Roxa,1077,13
+Esplanada,1076,18
+Colorado do Oeste,1075,11
+Uiramutã,1075,7
+Anajás,1074,12
+Tabatinga,1074,30
+Bom Jardim,1073,35
+Fortuna,1071,5
+Lagoa da Confusão,1068,15
+Mojuí dos Campos,1067,22
+Santa Luzia do Pará,1065,15
+Itiúba,1065,14
+Itarana,1065,12
+Paraíso do Norte,1065,14
+Tupi Paulista,1064,25
+Brasnorte,1064,14
+Itapeva,1062,24
+Acrelândia,1061,21
+Itanhém,1061,24
+Itapicuru,1060,13
+Balneário Barra do Sul,1059,19
+Jardim do Seridó,1058,9
+Ipaba,1058,30
+Caeté,1057,32
+Balneário Rincão,1056,23
+Santa Maria da Vitória,1055,17
+Epitaciolândia,1054,23
+Baía da Traição,1054,9
+Condado,1054,28
+São João da Baliza,1053,6
+Itapejara d'Oeste,1052,21
+Assaré,1051,22
+Sarzedo,1049,32
+Iperó,1049,12
+Pitimbu,1048,10
+Juquiá,1048,22
+Rio Pardo,1048,35
+Itapuã do Oeste,1047,16
+Rio Novo do Sul,1046,16
+Santa Rosa de Viterbo,1046,16
+Piquet Carneiro,1044,14
+Petrolândia,1044,23
+Coração de Maria,1044,9
+Abadia de Goiás,1044,14
+Canutama,1041,8
+Meruoca,1041,22
+Monsenhor Tabosa,1040,21
+Ituverava,1039,57
+Três Marias,1038,26
+Castilho,1038,18
+Montanha,1036,36
+Sengés,1036,20
+Brasil Novo,1035,22
+Teodoro Sampaio,1035,12
+Formosa da Serra Negra,1034,2
+Mangueirinha,1034,12
+Santa Luzia,1031,14
+Abelardo Luz,1030,32
+Holambra,1029,8
+Atílio Vivacqua,1028,16
+Amarante,1026,20
+Moraújo,1026,9
+Senador Pompeu,1024,24
+Cachoeira,1023,17
+Monte Negro,1022,18
+Santa Maria do Pará,1022,21
+Canarana,1021,20
+Barro Alto,1021,10
+Aurora,1020,25
+Canelinha,1019,13
+Júlio de Castilhos,1019,10
+Ibititá,1018,13
+Padre Bernardo,1018,23
+Groaíras,1017,16
+Jacutinga,1017,25
+Jaíba,1017,15
+Trindade,1015,34
+Ibiapina,1014,16
+Caravelas,1014,7
+Santo Antônio dos Lopes,1013,7
+São José da Tapera,1013,22
+Guaratinga,1012,29
+Pão de Açúcar,1011,19
+Mirandópolis,1011,17
+São Joaquim de Bicas,1009,48
+Conceição da Feira,1008,13
+Itacaré,1006,18
+Tapera,1005,22
+Bujaru,1003,27
+Castro Alves,1003,20
+Acará,1001,18
+Natividade,1000,13
+Armazém,1000,9
+São Sebastião,999,21
+Bocaina,999,20
+Alhandra,997,22
+Maragogi,996,26
+Barrinha,996,37
+Pio XII,994,9
+Potim,994,17
+Solonópole,993,20
+Lajedo,993,42
+Carmópolis de Minas,993,18
+Alto do Rodrigues,991,21
+Ouro,989,11
+Joaquim Pires,988,13
+Taperoá,987,25
+São José da Coroa Grande,985,28
+Faxinal,985,23
+Rialma,985,20
+Porto Acre,983,27
+Comodoro,981,12
+Jacupiranga,980,30
+Arame,979,26
+Jeremoabo,979,17
+Mutum,978,19
+Guará,977,38
+Cachoeira Alta,977,13
+São Luís Gonzaga do Maranhão,976,11
+Queimadas,976,14
+Igarapava,975,37
+Aldeias Altas,973,11
+Ibicuí,973,13
+Guararema,973,43
+Serra Azul,973,9
+São Caitano,972,32
+Jenipapo dos Vieiras,971,14
+Irupi,970,26
+Itaberá,969,14
+Itirapina,969,22
+Placas,968,15
+Bom Jesus dos Perdões,968,10
+Ipuã,968,29
+Capoeiras,967,15
+Entre Rios,967,15
+Pedro Afonso,966,17
+Paraí,966,7
+Pereiro,965,12
+Conceição do Castelo,965,15
+Carnaubal,964,10
+Machado,961,18
+Jaboticatubas,959,19
+Tapejara,959,15
+Lagoa do Mato,958,2
+Turvo,958,5
+Cairu,956,9
+Planalto,956,16
+Água Azul do Norte,955,4
+Cariús,954,14
+Chapada dos Guimarães,954,33
+Cedro,953,7
+Marechal Thaumaturgo,950,8
+Apuí,950,19
+Caetés,949,11
+Espinosa,949,25
+Piatã,948,14
+Sales Oliveira,947,11
+Rio Verde de Mato Grosso,947,32
+Santo Antônio do Tauá,946,26
+Wenceslau Braz,946,31
+Balneário Gaivota,945,15
+Santa Cecília,945,13
+Cruzeiro do Sul,945,21
+Nova Araçá,945,7
+Capão do Leão,944,34
+Arenápolis,944,13
+Carlinda,944,18
+Serra do Navio,943,4
+Irituia,941,15
+Jequitinhonha,941,9
+Itaipulândia,941,11
+Itupiranga,940,37
+Monte Azul,940,18
+Vitória do Mearim,939,14
+Buriti dos Lopes,939,15
+Guamaré,939,30
+Matias Barbosa,939,22
+Osvaldo Cruz,939,28
+Imbaú,938,13
+Prudentópolis,938,17
+São Miguel do Araguaia,937,22
+Eldorado,935,12
+Adrianópolis,935,16
+Santo Antônio do Sudoeste,935,5
+Rio Claro,934,35
+Luís Antônio,933,14
+Pedra Azul,932,22
+Riacho de Santana,931,11
+Itajobi,931,22
+Dormentes,930,3
+Feira Nova,929,28
+Santa Rosa do Sul,929,14
+Cravinhos,927,49
+Ribeirópolis,926,21
+Faro,925,27
+Capistrano,925,18
+Toritama,925,23
+Sobradinho,925,28
+Guaraciaba,925,6
+Nobres,922,31
+Paulo Ramos,919,23
+São Luís do Quitunde,919,22
+Piripá,919,6
+Itamonte,919,14
+Caririaçu,918,23
+Itaguara,917,17
+Bálsamo,917,32
+São José do Cedro,914,8
+Ascurra,913,5
+Santa Vitória,911,7
+Pinhão,911,18
+Januária,910,18
+Engenheiro Paulo de Frontin,909,19
+Siderópolis,909,28
+Senador Guiomard,908,22
+Picuí,908,13
+Itatinga,908,17
+São Gabriel,907,5
+São Bernardo,906,13
+Bom Jardim,906,39
+Craíbas,906,14
+Porto Calvo,906,21
+Irará,903,10
+Jacinto Machado,902,16
+Forquilha,901,32
+Cerro Largo,900,10
+Poxoréu,899,23
+Paulo Lopes,898,8
+São Domingos,898,13
+Itambé,897,38
+Riachão do Dantas,896,21
+Aurora do Pará,895,11
+Elias Fausto,895,23
+Santo Cristo,895,9
+Alexandria,894,9
+Casca,894,11
+Areia,893,15
+Rio Pomba,892,12
+Imaruí,892,10
+Lima Campos,891,8
+São Félix do Araguaia,890,17
+Cocalzinho de Goiás,890,19
+Itaquiraí,889,14
+Pintadas,888,7
+Rio Piracicaba,887,11
+Porto da Folha,886,19
+Cardoso Moreira,886,7
+Japeri,886,53
+Sete Barras,886,17
+Cerro Azul,886,24
+Salto do Lontra,886,12
+Iaçu,885,20
+Cerqueira César,885,15
+Nova Aurora,884,13
+Edéia,883,15
+Cururupu,881,7
+Quiterianópolis,880,15
+João Dourado,880,14
+Barroquinha,878,21
+Filadélfia,878,22
+Ubaitaba,878,32
+Conselheiro Pena,876,17
+Correia Pinto,875,33
+Seringueiras,874,8
+Mirador,874,7
+Viçosa,874,15
+Chaval,873,15
+Pereira Barreto,873,19
+Piraju,873,19
+Guapó,873,10
+Pindoretama,872,29
+Agrestina,872,36
+São José da Laje,871,15
+Marco,869,18
+Silvânia,869,4
+Taguaí,868,5
+Alvorada,867,12
+Pitangui,867,19
+Araçariguama,866,23
+Porteiras,865,13
+Padre Paraíso,865,15
+São Francisco de Assis,865,10
+Parnarama,864,6
+Fronteira,863,24
+Itapagipe,863,16
+Sobradinho,863,7
+São Caetano de Odivelas,862,21
+Balsa Nova,862,12
+Juruena,861,16
+Urupá,860,14
+Baependi,860,10
+Planalto,860,6
+Santa Tereza do Oeste,860,15
+Juruá,859,13
+Silva Jardim,859,12
+Cidreira,858,32
+Treze de Maio,857,5
+Vargem Grande,855,15
+Irani,854,6
+Anadia,853,17
+Itagibá,853,13
+Mãe do Rio,851,41
+Moita Bonita,850,10
+Caculé,850,9
+Campinorte,850,16
+Meleiro,849,13
+Campanha,848,18
+Salinópolis,847,52
+Tunápolis,847,4
+Bujari,844,9
+Belmonte,844,11
+Boa Esperança,844,27
+Capitão Leônidas Marques,844,8
+Careiro da Várzea,843,13
+Passira,843,38
+Antas,843,2
+Conchas,843,19
+São Domingos do Norte,842,14
+Itapitanga,841,14
+Ibirá,839,16
+Sonora,839,8
+Junqueirópolis,838,29
+Ipiranga do Norte,838,6
+Fortaleza dos Nogueiras,837,8
+Moreno,837,68
+Ituaçu,836,8
+Encruzilhada do Sul,836,18
+Souto Soares,834,19
+Astolfo Dutra,834,13
+Perdizes,834,9
+Vera,834,8
+Canavieiras,832,35
+Mineiros do Tietê,829,14
+Alto Taquari,828,12
+Alto Araguaia,828,14
+Tabaporã,828,11
+Anapurus,827,10
+Marcelândia,827,13
+Conceição,825,12
+Fernando Falcão,824,1
+Monsenhor Gil,824,18
+Parelhas,824,7
+Sanharó,824,21
+Guadalupe,823,9
+Ibipeba,823,5
+Santa Luzia,823,16
+Álvares Machado,823,17
+Praia Grande,823,7
+Costa Marques,822,13
+Buritis,821,10
+Lambari,821,16
+Pacaembu,821,19
+São João,821,11
+Grão Pará,820,5
+Arroio Grande,820,19
+Pindaré-Mirim,819,20
+Frei Paulo,819,20
+Mairi,819,10
+Várzea da Roça,819,4
+Cutias,818,3
+Missal,818,9
+Estrela d'Oeste,817,17
+Borda da Mata,816,25
+Nova Ponte,815,15
+Dumont,814,7
+Boa Vista do Ramos,813,11
+Assaí,812,22
+Campos Belos,812,13
+Alcântaras,811,5
+Guaranésia,810,12
+Porto Xavier,810,16
+Montividiu,807,13
+Tejuçuoca,804,15
+Uruoca,803,19
+Jerônimo Monteiro,803,27
+Itaobim,802,23
+Monte Azul Paulista,801,7
+Iracema,800,12
+Rondon do Pará,800,42
+Dianópolis,800,14
+Neópolis,798,26
+Campo Novo de Rondônia,797,15
+Juripiranga,797,18
+Laje,797,10
+Alumínio,797,22
+Biritiba Mirim,796,48
+Maracajá,796,9
+Butiá,795,31
+Cláudia,795,9
+Peabiru,794,13
+Conceição da Barra,793,33
+Tapiratiba,793,8
+Araçagi,791,8
+Dionísio Cerqueira,791,18
+Passo de Torres,791,11
+Lucena,789,11
+Atalaia,789,30
+Curaçá,789,14
+Dois Irmãos do Buriti,789,14
+Bocaiúva do Sul,788,4
+São Gonçalo do Rio Abaixo,787,9
+Vila Pavão,787,10
+Cantagalo,787,6
+Vera Cruz,786,31
+Macarani,785,16
+Miguelópolis,785,39
+Arroio do Tigre,784,9
+Altônia,783,11
+Nova Cruz,782,31
+Banabuiú,781,7
+Cacimba de Dentro,781,18
+Laurentino,781,1
+Vila Rica,781,13
+Cocal,780,25
+Itaí,780,15
+Bom Retiro do Sul,780,15
+Regeneração,779,14
+Nova Era,779,19
+Serra do Salitre,779,18
+Amajari,778,18
+Cruz do Espírito Santo,778,23
+Parambu,777,29
+Água Clara,777,7
+Itapiúna,775,15
+Itatiaia,775,24
+Bananeiras,774,7
+Presidente Dutra,774,2
+Japurá,773,7
+Goiatins,773,8
+São Vicente Férrer,773,19
+Itariri,773,18
+Colina,772,25
+Porto Esperidião,772,39
+Goianápolis,772,17
+São João do Soter,771,2
+Batalha,771,14
+Teolândia,770,4
+Rio dos Cedros,770,13
+São Jerônimo,770,46
+Ataléia,769,6
+Itapuí,769,11
+Santa Adélia,769,20
+Santa Bárbara do Sul,769,25
+Campos de Júlio,769,8
+Constantina,768,6
+São Sepé,768,16
+Ribeirão Branco,767,15
+Cidade Gaúcha,767,2
+Nossa Senhora do Livramento,767,18
+Marapanim,766,28
+Aurelino Leal,766,20
+Pindorama,766,25
+Barra do Ribeiro,765,36
+São Pedro do Piauí,764,10
+Banzaê,764,4
+Teofilândia,764,6
+Nova Olímpia,764,26
+Jucuruçu,763,6
+Ibicuitinga,762,11
+Ocara,762,23
+Mondaí,762,4
+Goioerê,761,19
+Três Barras do Paraná,761,17
+Nova Ipixuna,760,12
+Pérola,760,13
+Santo Augusto,759,12
+Matões,758,11
+Santa Bárbara,756,16
+Fartura,756,10
+Araruna,756,13
+Altinho,755,14
+Elói Mendes,755,11
+Mar de Espanha,755,19
+Urânia,755,23
+Miraí,754,6
+Araricá,754,16
+Trombudo Central,754,9
+Eldorado,754,10
+Nova Crixás,753,10
+Paulistana,752,10
+Laranjeiras,752,31
+Jardim,752,33
+Campestre do Maranhão,751,24
+Messias,751,23
+Curiúva,751,11
+Manoel Ribas,751,11
+Brejo,750,18
+Ubiratã,750,22
+Paço do Lumiar,749,108
+São João do Piauí,749,22
+Muniz Ferreira,749,3
+Tanhaçu,748,5
+Barracão,748,14
+Natividade,747,7
+Benedito Novo,747,10
+Martinópolis,746,25
+São João do Sul,746,6
+Goiás,746,25
+Pilar,745,19
+Itueta,745,3
+Riolândia,745,10
+Ampére,745,18
+Saudades,745,4
+Guaiçara,744,16
+Ribas do Rio Pardo,744,11
+Santa Cruz do Piauí,743,13
+Pau Brasil,741,18
+Novo Oriente,740,16
+Apiaí,740,26
+Caconde,740,6
+Catende,739,43
+São Félix,739,6
+Morrinhos,738,10
+Passa Quatro,738,15
+Bom Jesus do Norte,738,17
+Buriti,737,6
+Iguaí,737,24
+Uchoa,737,16
+Verê,736,11
+Agudo,736,7
+Entre-Ijuís,736,12
+Santa Rita do Passa Quatro,735,19
+Tavares,734,11
+Satuba,734,24
+Dário Meira,734,11
+Itamarati,733,9
+Serrolândia,733,4
+Governador Nunes Freire,732,8
+Independência,732,21
+Corinto,730,20
+São Miguel Arcanjo,730,16
+Pirangi,729,28
+Flores,728,25
+Novo Repartimento,725,47
+Santo Antônio,725,25
+Campo Erê,725,7
+Botuverá,725,6
+Jucás,724,27
+Paraguaçu,724,13
+Perdões,723,10
+Ibirapuã,722,11
+Brejo Grande do Araguaia,721,5
+Nova Canaã do Norte,721,11
+Pirenópolis,721,18
+Monte Carlo,720,18
+Tangará,720,8
+Ipaussu,718,11
+Junqueiro,717,25
+Corumbaíba,717,12
+Trizidela do Vale,715,17
+Umarizal,715,14
+Roseira,715,12
+Campo Alegre,715,22
+São Bento,714,14
+Igreja Nova,714,10
+Ronda Alta,714,14
+Bom Jardim,713,17
+Lagoa Grande,711,11
+Muzambinho,711,5
+Palmares Paulista,711,23
+São Geraldo do Araguaia,710,20
+Sento Sé,710,22
+Santa Margarida,710,18
+Águas de Lindóia,710,15
+Salto do Jacuí,710,7
+Orindiúva,709,8
+Marcação,707,6
+Paranapanema,707,29
+Canto do Buriti,706,23
+Tacaratu,706,19
+Ibotirama,706,21
+Carandaí,706,11
+Anita Garibaldi,705,5
+Coremas,703,17
+Cafarnaum,703,11
+Santa Rita do Itueto,703,4
+Palmital,703,12
+São Jorge d'Oeste,703,11
+São Simão,703,17
+Fátima,702,9
+Alto Alegre dos Parecis,701,17
+Limoeiro de Anadia,701,20
+Arroio do Sal,701,19
+Baraúna,700,17
+Santa Terezinha,700,19
+Medina,700,16
+Madalena,699,25
+Tururu,699,20
+Tabapuã,699,22
+Bagre,698,11
+Venturosa,697,17
+Jaguaripe,697,6
+Ibiraiaras,697,17
+Caiapônia,697,17
+São Bento do Tocantins,696,7
+Centro Novo do Maranhão,695,7
+São Domingos,695,3
+Juruaia,695,11
+Itinga do Maranhão,694,21
+Governador Dix-Sept Rosado,693,10
+Matipó,693,15
+Paraibano,692,12
+Joaquim Gomes,692,17
+Murici,692,30
+Floresta,691,8
+Rosário Oeste,691,20
+Parnamirim,690,22
+Tombos,689,8
+Aroeiras,688,4
+Manoel Urbano,687,4
+Iguatemi,687,10
+Charqueada,686,11
+Bicas,685,21
+Brasilândia de Minas,685,7
+Borborema,685,19
+Triunfo,684,16
+Santa Luzia do Paruá,682,4
+Graça,680,16
+Ponte Serrada,680,21
+Salvaterra,679,20
+São Francisco,679,21
+Piraí do Norte,678,7
+Maiquinique,677,9
+Terenos,677,19
+Araguaçu,675,13
+Coribe,675,11
+Nova Olinda,674,24
+Gonçalves Dias,674,9
+Jitaúna,674,20
+Candói,673,12
+Porecatu,673,17
+Siqueira Campos,673,17
+Senador José Porfírio,672,15
+Dom Pedro,672,8
+Catunda,672,8
+Capela do Alto,672,11
+Maurilândia,671,14
+Esperantinópolis,670,17
+Mucambo,670,13
+Terra Nova,670,8
+Pastos Bons,668,6
+Queluz,668,6
+Mariluz,667,14
+Kaloré,667,7
+Durandé,666,5
+Jordânia,666,7
+Água Doce do Maranhão,665,7
+Cedro de São João,665,13
+Campinápolis,665,19
+Cumaru do Norte,663,5
+Alto Santo,663,17
+Massaranduba,663,13
+Papagaios,663,2
+Axixá do Tocantins,662,8
+Malhador,662,16
+Itamarandiba,662,7
+Divinolândia,662,18
+Nazaré Paulista,662,8
+Palma Sola,662,8
+Alagoa Nova,661,13
+Governador Mangabeira,661,7
+Urandi,661,4
+Campos Gerais,661,13
+Engenheiro Beltrão,661,8
+Tuparendi,661,9
+Abel Figueiredo,660,5
+Capela do Alto Alegre,660,10
+Céu Azul,660,9
+Tenente Ananias,659,12
+Itaparica,659,20
+Santa Maria do Suaçuí,659,12
+Paraibuna,659,17
+Itapetim,658,11
+Lontras,658,5
+Nova Veneza,657,11
+Vale do Anari,656,7
+Fortim,656,6
+Canguaretama,656,19
+Itagi,656,16
+Colniza,656,19
+Nova Monte Verde,656,6
+Água Branca,655,9
+Coronel Domingos Soares,655,0
+Glória do Goitá,654,31
+Neves Paulista,654,14
+Ribeirão do Pinhal,654,18
+Remígio,653,13
+Iacanga,653,9
+Agrolândia,653,6
+Ipuaçu,653,7
+Ipuiúna,652,9
+Maracaí,652,10
+Caridade,651,24
+Santa Luzia D'Oeste,650,7
+Monte Santo,650,14
+Una,650,21
+São Pedro do Sul,650,11
+Aragoiânia,650,6
+Mirandiba,649,13
+Pires Ferreira,648,5
+Araçuaí,648,16
+Alto Parnaíba,647,5
+Nioaque,647,12
+Macaparana,646,11
+Simonésia,646,14
+Tupãssi,646,14
+Itá,646,9
+Mirante da Serra,645,4
+Brejinho,645,6
+Mascote,645,12
+Caxambu,645,8
+Trindade do Sul,645,12
+Jupi,644,16
+Nazaré da Mata,644,45
+Caraí,644,11
+Torrinha,644,9
+Santa Fé,644,21
+Piancó,643,16
+Santo Antônio do Jacinto,643,15
+Santa Leopoldina,643,18
+Batalha,642,18
+Campestre,642,8
+Urucânia,642,13
+São Lourenço do Oeste,642,22
+Araguanã,640,5
+Floresta Azul,640,15
+Buritizeiro,640,15
+Turmalina,640,6
+Guaraniaçu,640,4
+Santa Rita de Minas,639,12
+Itapé,638,19
+Canápolis,638,13
+Nepomuceno,638,14
+Serro,638,8
+Tarumã,638,12
+Buriti Alegre,638,20
+Capela,637,8
+Condor,637,5
+Nova Timboteua,636,5
+Lençóis,636,4
+Sabáudia,636,10
+Alvorada D'Oeste,635,14
+Touros,635,24
+Nova Resende,635,12
+Presidente Bernardes,635,18
+Rosana,635,12
+Ervália,634,11
+Luzerna,634,3
+Terezópolis de Goiás,633,12
+Arauá,632,12
+Gavião Peixoto,631,7
+Florestópolis,631,12
+Santa Izabel do Oeste,631,14
+Terra Nova do Norte,631,16
+Lagoa da Canoa,630,16
+São João do Rio do Peixe,629,13
+Igrapiúna,629,9
+Nova União,628,8
+Wanderlândia,628,8
+Castelo do Piauí,628,16
+Delta,628,7
+Barra de Santa Rosa,627,3
+Santa Juliana,627,26
+Montes Altos,626,7
+Casserengue,626,8
+Abaeté,626,14
+Balneário Pinhal,626,21
+Itapissuma,625,34
+Manoel Vitorino,624,18
+Santa Mariana,624,25
+Lindóia do Sul,624,5
+Salitre,623,9
+Cachoeira do Piriá,622,3
+Ibipitanga,622,7
+Paratinga,622,8
+Montes Claros de Goiás,622,8
+Duque Bacelar,620,10
+Nossa Senhora dos Remédios,620,9
+Buritirama,620,15
+Dom Basílio,620,9
+Itapecerica,619,12
+Cesário Lange,619,14
+Itacajá,618,8
+Cunha Porã,618,12
+Conde,617,8
+Itauçu,617,12
+Governador Newton Bello,616,4
+Apiacás,616,2
+Anajatuba,615,15
+Aparecida,615,9
+Guatambú,614,13
+Rondon,613,6
+Santa Maria da Boa Vista,612,7
+Jacinto,612,5
+Bananal,612,2
+Águas Mornas,612,5
+Tasso Fragoso,611,2
+Ipubi,611,34
+Itabirinha,611,16
+Luís Correia,610,25
+Descanso,609,9
+Pimenteiras,607,15
+Planura,607,8
+Roca Sales,607,15
+Porto Murtinho,607,19
+Jaicós,606,15
+Palhano,605,12
+São José do Calçado,605,32
+Araripe,604,7
+Elesbão Veloso,603,19
+Morro do Chapéu do Piauí,603,3
+Riachão das Neves,603,22
+Deodápolis,603,8
+Barreira,602,24
+Zortéa,602,8
+São Carlos,600,12
+Jaçanã,599,4
+Gurinhém,599,13
+Maruim,599,30
+Francisco Sá,599,12
+Piên,599,7
+Fervedouro,598,10
+Rio Acima,598,15
+Nova Londrina,598,5
+Lagoa do Barro do Piauí,597,1
+Araioses,596,10
+Caetanópolis,596,4
+Redentora,596,15
+Piranhas,595,12
+Bertolínia,594,6
+Felipe Guerra,594,10
+São José do Campestre,594,14
+Águas Formosas,594,15
+Tracuateua,593,16
+Santa Fé do Araguaia,593,9
+Apuarema,593,9
+Utinga,593,6
+Florânia,592,8
+Juru,592,12
+Joanópolis,592,4
+Nhandeara,592,18
+Arroio dos Ratos,592,21
+Condeúba,591,11
+Malacacheta,591,4
+Pacatuba,590,15
+Cássia,590,12
+Jardim,589,22
+Paulista,589,5
+Formosa do Rio Preto,589,13
+Iporã,589,2
+Arvorezinha,589,16
+Capivari do Sul,589,4
+Grossos,588,10
+Pendências,588,20
+Barro Alto,587,4
+Boa Esperança do Sul,587,10
+Cafelândia,587,23
+Salete,587,6
+Monte Alegre do Piauí,586,9
+Guaiúba,586,29
+Miraíma,586,10
+Apiúna,586,11
+Santo Antônio do Leverger,586,26
+Alto Alegre do Maranhão,585,19
+Manga,585,7
+Califórnia,585,9
+Coronel Sapucaia,585,11
+Quebrangulo,584,8
+Divino,583,13
+Silvanópolis,582,12
+Governador Edison Lobão,582,20
+Barro,582,14
+Escada,582,66
+Barra do Mendes,582,8
+Macuco,582,4
+Divinópolis do Tocantins,581,3
+Itaipava do Grajaú,581,6
+Pocinhos,580,13
+Bambuí,580,5
+Guimarânia,580,10
+Rio Pardo de Minas,580,4
+Andorinha,579,9
+São Sebastião da Grama,579,14
+Treze Tílias,579,3
+Muçum,579,10
+São Martinho,579,9
+Upanema,578,12
+Salgado de São Félix,578,9
+Afrânio,578,9
+Novo Barreiro,578,11
+Marcolândia,577,14
+Flórida Paulista,577,7
+Santo Antônio de Goiás,577,16
+Olho d'Água das Cunhãs,576,13
+Santa Isabel do Ivaí,576,14
+Feliz Natal,576,16
+São Paulo do Potengi,573,24
+Andaraí,573,5
+Figueira,573,17
+Mulungu,572,11
+Ilha de Itamaracá,572,18
+Jataúba,571,9
+Cedral,571,13
+Japaratuba,569,32
+Caatiba,569,7
+Quatá,569,7
+Belterra,568,14
+Santa Bárbara do Pará,568,16
+Simplício Mendes,568,7
+Riacho das Almas,568,13
+Raposa,567,19
+Nova Lacerda,567,5
+Getulina,566,6
+Caraá,566,14
+Tamarana,565,18
+Petrolina de Goiás,565,10
+Itatiaiuçu,564,9
+Mantenópolis,564,27
+Alto Paraná,564,10
+Sumidouro,562,20
+Congonhal,560,11
+Vale do Paraíso,559,20
+São João Batista do Glória,559,11
+Água Doce,559,4
+Tacuru,559,5
+São José da Vitória,558,5
+Brasília de Minas,558,5
+Tanquinho,557,7
+São Geraldo,557,13
+Mamborê,557,12
+Treviso,557,5
+Nova Olinda,556,10
+Mogeiro,556,9
+Presidente Jânio Quadros,556,8
+Moema,556,9
+Rio Casca,556,10
+Umburanas,555,3
+Cajuru,555,18
+Aracatu,554,8
+Pilão Arcado,554,7
+Lucélia,554,20
+Icaraíma,554,5
+Pontal do Araguaia,554,14
+Acari,553,8
+São Tomé,553,10
+Itarantim,553,14
+Dois Córregos,553,17
+Chapada,553,3
+Beneditinos,551,19
+Arês,551,17
+Araruna,551,15
+Nova Floresta,551,11
+Tapes,551,22
+Sirinhaém,550,31
+Barrocas,550,6
+São José do Ouro,550,7
+Rodrigues Alves,549,8
+Goianésia do Pará,549,21
+Capinzal do Norte,549,4
+Lago Verde,549,8
+Jaguaribara,549,9
+Vera Cruz do Oeste,549,15
+São Pedro de Alcântara,549,4
+Campos Altos,548,10
+Alfredo Wagner,548,2
+Ajuricaba,548,12
+Aveiro,546,6
+Ipaporanga,546,5
+Monte Alegre,546,5
+Piraúba,546,7
+Miranda do Norte,545,16
+Ereré,545,10
+Catarina,545,9
+Juarez Távora,545,8
+Almadina,545,9
+Uruana,545,17
+Saboeiro,544,9
+Divina Pastora,544,6
+Água Doce do Norte,544,23
+Urubici,544,13
+Centenário do Sul,543,11
+Cezarina,543,15
+Macau,542,25
+Siriri,542,10
+Ponto Novo,542,3
+Cardoso,542,23
+Ipiranga,542,8
+Ribeirão Claro,542,11
+Maracaçumé,541,6
+Caapiranga,540,20
+Feira Grande,540,8
+Carinhanha,540,10
+Campina da Lagoa,540,10
+Curralinho,539,26
+Ipiguá,539,12
+Barbosa Ferraz,539,6
+Baião,538,21
+Batayporã,538,11
+Ribeira do Amparo,537,2
+José Boiteux,537,5
+Itaúba,537,8
+Bonito,536,5
+Mulungu do Morro,536,4
+Lagoa Grande,536,4
+Nova Glória,536,8
+Turvelândia,536,6
+Mato Verde,535,6
+Timbé do Sul,535,10
+Fontoura Xavier,535,11
+Piaçabuçu,533,16
+General Salgado,533,7
+Milhã,532,13
+Bonito,532,28
+São Martinho,532,3
+Anagé,531,12
+Caldeirão Grande,531,6
+Cansanção,531,18
+Rodeiro,530,10
+Cunha,530,4
+Lavínia,530,5
+São João do Ivaí,530,8
+São João do Oriente,529,14
+Santa Bárbara de Goiás,529,7
+Floresta do Araguaia,528,8
+Passa e Fica,528,1
+Pedra,527,10
+Boa Nova,527,9
+Dores de Campos,527,11
+Bilac,527,10
+Santo Anastácio,527,16
+Mauá da Serra,527,9
+Bom Jesus do Tocantins,526,13
+Piçarra,526,5
+Tocantínia,526,6
+Paripiranga,526,15
+Abre Campo,526,6
+Ilha Comprida,526,16
+Caiçara,525,10
+Orobó,525,11
+Coronel João Sá,525,13
+São Félix do Coribe,525,9
+Maranhãozinho,524,5
+Salgado,524,20
+Paraisópolis,523,20
+Glória de Dourados,523,11
+Itatuba,522,5
+Antônio Gonçalves,522,5
+Piranhas,522,25
+São Sebastião de Lagoa de Roça,521,8
+Várzea Nova,521,9
+Capitólio,521,15
+Icém,521,10
+Guia Lopes da Laguna,521,13
+Bom Jesus,520,10
+Serra Negra do Norte,520,8
+Montalvânia,520,9
+Quatis,520,8
+Bom Jardim da Serra,520,3
+Gaúcha do Norte,520,15
+São Gonçalo do Sapucaí,519,10
+Boa Vista do Buricá,519,5
+São Pedro da Água Branca,518,1
+Ribeirão Bonito,518,14
+Babaçulândia,517,4
+Olho d'Água do Borges,517,3
+Encruzilhada,517,12
+Brazópolis,517,18
+Arraial do Cabo,517,10
+Major Isidoro,516,11
+Quixabeira,516,2
+Jacaraú,515,18
+Serra Preta,515,13
+Cajobi,515,16
+Simões,514,5
+Ararendá,514,9
+Curimatá,513,5
+Croatá,513,6
+Panelas,513,22
+Cordeiros,513,4
+Rafael Jambeiro,513,11
+Duartina,513,7
+Nova Prata do Iguaçu,513,8
+Putinga,513,13
+Indiara,513,17
+Sud Mennucci,512,3
+São José dos Basílios,511,2
+Altinópolis,511,16
+Ouroeste,511,12
+Entre Rios,511,5
+David Canabarro,511,8
+São João da Urtiga,511,4
+Nova Itarana,510,5
+Alpinópolis,510,8
+Jesuítas,510,15
+Juti,510,5
+Porto,509,11
+Ribeiro Gonçalves,509,8
+Campo Redondo,509,8
+Ibicoara,509,9
+Piranguinho,509,13
+Cambuci,509,10
+Ribeirão Cascalheira,509,15
+Melgaço,508,12
+Loreto,507,4
+Queimada Nova,505,3
+Serra Branca,505,17
+São João do Manhuaçu,505,19
+Cananéia,505,16
+Jandaia,505,11
+Barroso,504,9
+Quaraí,504,10
+Itaíba,503,9
+Piritiba,503,12
+Itambé,503,19
+São Sebastião da Amoreira,502,13
+São José do Norte,502,21
+Xangri-lá,502,25
+São José do Sabugi,501,3
+Nilo Peçanha,501,13
+Machadinho,501,5
+Itaguari,501,8
+Rio Formoso,500,28
+Poté,500,8
+Rubim,500,10
+Sapopema,500,9
+Vila Flores,500,7
+Nazário,500,7
+Muaná,499,23
+Inhuma,499,7
+Presidente Olegário,499,18
+Rio do Oeste,498,3
+São João do Itaperiú,498,8
+Cabixi,497,10
+Carolina,497,8
+Abaré,497,1
+São Domingos do Capim,496,17
+Nova Aliança,496,9
+Cordilheira Alta,496,7
+São Carlos do Ivaí,495,7
+Iguaracy,494,13
+Ibateguara,494,11
+Carmópolis,494,24
+Alto Rio Novo,494,17
+Planalto,494,10
+Santa Rosa do Purus,493,4
+Carutapera,493,19
+Cuitegi,492,12
+Ibiraci,492,10
+Catanduvas,492,11
+Anta Gorda,492,4
+Canhotinho,491,21
+Santa Maria do Cambucá,491,11
+Joaquim Távora,491,7
+Catuípe,491,8
+Ilicínea,490,12
+Jardim Alegre,490,8
+Aurora,490,10
+Bom Jesus,490,12
+Cacaulândia,489,7
+Joselândia,489,1
+Dores do Rio Preto,489,5
+Bom Retiro,489,8
+Barro Duro,488,7
+Clementina,488,6
+Urupês,488,17
+Ventania,488,19
+Jaborá,488,6
+Aguiarnópolis,487,10
+Ibimirim,487,16
+Itamogi,487,21
+Alvorada do Norte,486,2
+Timbiras,485,16
+Luz,485,13
+Santana do Manhuaçu,485,2
+São João Evangelista,485,6
+Nova Laranjeiras,485,3
+Senador Sá,484,6
+Santana do Mundaú,484,9
+Estação,484,5
+Vista Alegre do Alto,483,5
+Iati,482,9
+Lagoa de Itaenga,482,15
+Quipapá,482,9
+Alvorada do Sul,482,10
+Soledade,481,4
+Frei Miguelinho,481,15
+Araçás,481,7
+Olindina,481,7
+Dona Euzébia,481,3
+Areiópolis,481,6
+Guaraci,481,12
+Peixe,480,9
+Itaiçaba,480,8
+Patrocínio Paulista,480,12
+Governador Eugênio Barros,479,7
+Palmácia,479,9
+Américo de Campos,478,16
+Vargem Bonita,478,5
+Colméia,477,15
+Onda Verde,477,10
+Santa Rita,476,16
+Umirim,476,29
+Sertãozinho,476,5
+América Dourada,476,2
+Vitorino,476,9
+Cidelândia,474,3
+Pio IX,474,8
+Belém do Brejo do Cruz,474,5
+Barreiros,474,43
+São Simão,474,10
+Pereiras,473,7
+Piratininga,473,13
+Cristais,472,5
+Apiacá,472,13
+Angélica,472,9
+Ouvidor,472,13
+Chaves,471,2
+Pacoti,471,8
+Iraí de Minas,471,8
+Jaci,471,8
+São Lourenço da Serra,471,18
+Ciríaco,471,11
+São Sebastião da Boa Vista,470,11
+Barrolândia,470,7
+Tomar do Geru,470,11
+Itatim,470,16
+São Miguel das Matas,470,4
+Figueirópolis,469,7
+Cristinápolis,469,22
+Botelhos,469,4
+Laranja da Terra,469,7
+Santa Albertina,469,7
+Pacujá,468,6
+Terra Nova,468,15
+Ibiaçá,468,10
+Jaguari,468,18
+São Miguel do Tocantins,467,10
+Santa Quitéria do Maranhão,467,17
+Pirpirituba,467,8
+Jaborandi,467,6
+Barão de Cotegipe,467,5
+Tupanatinga,466,7
+Alterosa,466,24
+Nova Olímpia,466,1
+Breu Branco,465,30
+Palmeirópolis,465,13
+Mercês,465,10
+Boa Vista da Aparecida,465,15
+Crissiumal,465,11
+Palestina do Pará,464,5
+Ipanguaçu,464,16
+Serrita,464,10
+Baixa Grande,464,4
+Dores do Indaiá,464,8
+Alto Paraíso de Goiás,464,1
+Alto Horizonte,464,3
+Lago dos Rodrigues,463,9
+Senador Alexandre Costa,463,1
+Pedra Branca,463,41
+Centralina,463,7
+Orizona,463,7
+Frei Inocêncio,462,15
+Santa Maria de Itabira,462,10
+Mucurici,462,6
+Sinimbu,462,10
+Boninal,461,5
+General Carneiro,461,12
+Irauçuba,460,29
+Doutor Severiano,460,12
+Itaporanga,460,11
+Morro Reuter,460,8
+Joviânia,460,4
+Ponte Alta do Tocantins,459,6
+Darcinópolis,458,5
+Laje do Muriaé,458,4
+Itobi,458,7
+São Luís do Curu,457,17
+Adustina,457,8
+Pindaí,457,5
+Rafard,457,4
+Campo Belo do Sul,457,8
+Sampaio,456,3
+Magalhães de Almeida,456,5
+Marcelino Vieira,456,10
+Brejões,456,7
+Chalé,456,7
+Ipê,456,4
+Vicentinópolis,455,8
+Padre Marcos,454,5
+Apuiarés,454,13
+Deputado Irapuan Pinheiro,454,7
+Pompéia,454,10
+Santa Maria do Herval,454,8
+Bom Jardim de Goiás,454,9
+Soure,453,14
+Cantanhede,453,3
+Tamandaré,453,21
+Porto Real do Colégio,453,9
+Aramari,453,10
+Nova Europa,453,12
+Rio Fortuna,453,5
+Cajueiro da Praia,452,12
+Aparecida d'Oeste,452,11
+Inácio Martins,452,3
+Fortaleza dos Valos,452,6
+Mato Leitão,452,2
+Corumbiara,451,9
+Buriti do Tocantins,451,2
+Capitão de Campos,451,11
+Lajes,451,4
+Avanhandava,451,19
+Mendonça,451,13
+Saudade do Iguaçu,451,4
+São Luiz,450,6
+Teixeira,450,17
+Cristópolis,450,3
+Uraí,450,11
+Minas do Leão,450,5
+Cachoeira dos Índios,449,12
+Panorama,449,11
+Fronteiras,448,6
+Candiota,448,6
+Pantano Grande,448,6
+Santa Fé de Goiás,448,7
+São João d'Aliança,448,16
+Cajueiro,447,18
+Riachuelo,447,13
+Carneirinho,447,8
+Santa Terezinha de Goiás,447,13
+Pilõezinhos,446,4
+Aliança,446,31
+Belo Campo,446,5
+Cristais Paulista,446,5
+Iretama,446,6
+Alagoinha,445,13
+Monte Alegre de Sergipe,445,8
+Borrazópolis,445,12
+Vianópolis,445,8
+Esperantina,444,11
+Carmo do Rio Claro,444,15
+Cruzília,444,12
+Ubarana,444,5
+Primavera,443,10
+Puxinanã,443,3
+São Joaquim do Monte,443,21
+Vicência,442,16
+Taquarana,442,9
+Barro Preto,442,7
+Vila Maria,442,5
+Rio Crespo,441,3
+Caetanos,441,5
+Cândido de Abreu,441,1
+Terra Alta,440,12
+Nova Soure,440,9
+Santa Cruz da Vitória,440,5
+Selbach,440,11
+Taiúva,439,7
+São Francisco do Brejão,438,0
+Encanto,438,13
+Cocos,438,6
+Itagimirim,438,6
+Mário Campos,438,19
+Nova Erechim,438,7
+Lindolfo Collor,438,5
+Camapuã,438,8
+Caldas,437,13
+Itanhomi,437,14
+Cosmorama,437,24
+Japurá,437,5
+Ouro Verde do Oeste,437,11
+Serranópolis,437,3
+Bela Vista de Minas,436,9
+Iporã do Oeste,436,5
+Piratuba,436,8
+Inocência,436,6
+Nortelândia,436,13
+Ilha Grande,435,8
+Cipó,435,2
+Campina Verde,434,16
+Campo Florido,434,2
+Enéas Marques,434,12
+Varzedo,433,4
+Alto Jequitibá,433,9
+Pariconha,432,1
+Bom Sucesso,432,9
+Normandia,431,24
+Lagoa dos Gatos,431,6
+Itiruçu,431,5
+Poço Fundo,431,5
+Águas Frias,431,0
+Bofete,430,5
+Cambira,430,10
+Paverama,430,11
+Pinheiro Machado,430,9
+Maracanã,429,22
+Santa Maria das Barreiras,429,3
+Bacuri,429,4
+Jiquiriçá,429,10
+Catiguá,429,11
+Santa Branca,429,8
+Santo Inácio,429,7
+Passo de Camaragibe,428,11
+Rosário do Catete,428,8
+Martinho Campos,428,9
+Doutor Camargo,428,8
+Caibi,428,5
+Bela Vista,428,12
+Nova Bandeirantes,428,5
+Jequiá da Praia,427,9
+Nova Canaã,427,9
+Quatipuru,426,10
+Pouso Alto,426,5
+Erval Velho,426,7
+São João do Carú,425,6
+Ibitiara,425,5
+Varzelândia,425,9
+Renascença,425,10
+Maquiné,425,10
+Itambacuri,424,9
+Santa Rita de Caldas,424,10
+Poço Redondo,423,20
+Foz do Jordão,423,10
+João Lisboa,422,31
+Carnaúba dos Dantas,422,6
+Progresso,422,2
+Lagoa do Piauí,421,2
+Iepê,421,9
+Cruz Machado,421,8
+Braço do Trombudo,421,3
+Santa Carmem,421,6
+Lagoa Nova,420,7
+João Alfredo,420,27
+Vertentes,420,5
+Mundo Novo,420,5
+Italva,420,15
+São Pedro do Ivaí,420,15
+Areado,419,8
+Guiricema,419,9
+Jacuí,419,11
+Rio Bonito do Iguaçu,419,1
+Nova Fátima,417,2
+Potiraguá,417,8
+Guarani,417,1
+Itapirapuã,417,4
+Porto Walter,416,2
+Aragominas,416,7
+Alto Longá,416,11
+Cacimbinhas,416,5
+Canudos,416,8
+Mendes Pimentel,416,6
+Palmares do Sul,416,24
+Aiquara,415,9
+Monte Belo,415,16
+Colinas,415,1
+Choró,414,8
+Santana do Cariri,414,15
+Bandeira,414,8
+São Domingos do Prata,414,8
+Ubaíra,413,11
+São Pedro do Turvo,413,5
+Lima Duarte,412,19
+Igaci,411,4
+Dois Riachos,411,5
+Santa Brígida,411,7
+Trairão,410,4
+Aliança do Tocantins,410,10
+Bonfinópolis,410,12
+Rianápolis,410,3
+São Francisco do Pará,409,12
+Tapiramutá,409,2
+Arceburgo,409,7
+Cachoeira de Minas,409,5
+Capetinga,409,4
+São Fidélis,409,37
+São Jorge do Ivaí,409,4
+Nova Esperança do Sudoeste,408,6
+Tunas do Paraná,408,8
+Restinga Sêca,408,8
+Nova Ubiratã,408,13
+Machacalis,407,4
+Ipumirim,407,4
+Presidente Castello Branco,407,4
+Palmeirante,406,6
+Ponto Belo,406,11
+Arealva,406,4
+Douradina,406,2
+Pareci Novo,406,4
+Vicentina,406,11
+Boqueirão do Leão,405,18
+Turvânia,405,8
+Palmeiras do Tocantins,404,5
+São Miguel do Tapuio,404,10
+Areal,404,20
+Serranópolis do Iguaçu,404,3
+Alto Garças,404,19
+Paraúna,404,14
+Santo Amaro das Brotas,403,13
+Gongogi,403,6
+Mirangaba,403,8
+Palmeira d'Oeste,403,10
+Estiva Gerbi,403,14
+Carlópolis,403,7
+Nova Santa Rosa,403,4
+Glorinha,403,13
+Salvador do Sul,403,3
+Nova Guarita,403,10
+Jussari,402,6
+São João da Ponte,402,14
+Jussara,402,4
+Moreira Sales,402,5
+Itainópolis,401,4
+Itaquara,401,5
+Miradouro,401,4
+Terra Roxa,401,9
+São José do Hortêncio,401,6
+Novo Mundo,401,12
+Vila Nova dos Martírios,400,2
+Jussara,400,3
+Araújos,400,2
+Matias Olímpio,399,7
+Amaraji,399,25
+Limeira do Oeste,399,5
+Peçanha,399,5
+Boracéia,399,8
+Cotiporã,399,3
+Nova Esperança do Sul,399,3
+Penalva,398,9
+Rosário,398,17
+Poço Branco,398,7
+Monte Santo de Minas,398,11
+Erval Seco,398,4
+Felixlândia,397,9
+Lagoa Dourada,397,7
+Marilândia do Sul,397,8
+Cariri do Tocantins,396,8
+Pequizeiro,396,8
+Rio Branco,396,6
+Martinópole,394,13
+Caldas Brandão,394,6
+Itambaracá,394,6
+Vale Real,394,3
+Bom Jesus do Araguaia,394,2
+Cotriguaçu,394,16
+Flexeiras,393,8
+Santanópolis,393,5
+Estiva,393,6
+Maria da Fé,393,13
+Hugo Napoleão,392,8
+Riacho dos Cavalos,392,8
+Guaraciaba,392,10
+Morungaba,392,7
+São José da Boa Vista,392,13
+Glória,391,10
+Catuji,391,2
+Palmitinho,391,7
+Elísio Medrado,390,6
+Juranda,390,5
+São José do Cerrito,389,4
+Nova Olinda do Maranhão,388,6
+São Vicente,388,2
+Alto Piquiri,388,10
+Tabaí,388,5
+Capixaba,387,11
+Acajutiba,387,9
+Caxambu do Sul,387,3
+Faina,387,4
+Turilândia,386,6
+Campo Grande do Piauí,386,4
+Aratuba,386,2
+Taperoá,386,11
+Guidoval,386,5
+Santa Lúcia,386,8
+Lago do Junco,385,3
+Boa Hora,385,5
+Santa Luzia do Itanhy,385,8
+Candeal,385,1
+Naque,385,10
+Santo Antônio do Amparo,385,9
+Agudos do Sul,385,2
+Angicos,384,9
+Camutanga,384,11
+Maribondo,384,16
+Barros Cassal,384,3
+Belém do Piauí,383,6
+São Rafael,383,9
+Santa Cruz,383,4
+Arataca,383,12
+Três Fronteiras,383,18
+Imbuia,383,4
+Bandeirantes,383,6
+Lambari D'Oeste,383,4
+Arara,382,11
+Serra Dourada,382,6
+Alto Paraguai,382,13
+Jangada,382,15
+Arari,381,15
+São Francisco do Maranhão,381,12
+Madeiro,381,2
+Uiraúna,381,20
+Palmas de Monte Alto,381,5
+Sítio Novo do Tocantins,380,5
+Juazeirinho,380,8
+Serra Redonda,380,5
+Itapebi,380,13
+Oliveira dos Brejinhos,380,7
+Planaltino,380,6
+Caputira,380,10
+Alto Boa Vista,380,6
+Joca Marques,379,2
+Carrapateira,379,4
+Querência do Norte,379,2
+Santa Cecília do Sul,379,0
+Sanclerlândia,379,14
+Pau D'Arco,378,5
+Olinda Nova do Maranhão,378,8
+São João do Sabugi,378,6
+Jandaíra,378,5
+São Jerônimo da Serra,378,11
+Buriti dos Montes,377,2
+São José do Seridó,377,0
+Aporá,377,11
+Joaíma,377,12
+Ivaí,377,9
+Quatiguá,377,5
+Igarapé do Meio,376,11
+Alegrete do Piauí,376,4
+Paramoti,376,6
+São José da Lagoa Tapada,376,2
+Conceição dos Ouros,376,10
+São Pedro do Iguaçu,376,3
+Pedras Grandes,376,10
+Arapoema,375,5
+Ipaumirim,375,9
+Mortugaba,375,5
+Carmo de Minas,375,5
+Minas Novas,375,10
+Britânia,375,2
+Mulungu,374,8
+Lagoa de Dentro,374,5
+Serra dos Aimorés,374,10
+Honório Serpa,374,4
+Rebouças,374,9
+Três Cachoeiras,374,20
+Centro do Guilherme,373,3
+Peritoró,373,7
+Ibiara,373,2
+Calumbi,373,2
+São Domingos,373,14
+Bueno Brandão,373,10
+Ministro Andreazza,372,10
+Isaías Coelho,372,1
+São João,372,9
+Nordestina,372,7
+Flor da Serra do Sul,372,12
+Perobal,372,3
+Salto Veloso,372,7
+Ourém,371,4
+São João do Arraial,371,4
+Petrolândia,371,6
+São Bonifácio,371,6
+Timbó Grande,371,5
+Coqueiral,370,9
+Maripá,370,7
+Rondinha,370,7
+Itamari,369,6
+Dom Joaquim,369,1
+Guaraci,369,6
+Fátima,368,6
+Josenópolis,368,3
+Porto dos Gaúchos,368,2
+Portelândia,368,5
+Itaubal,367,3
+Tuneiras do Oeste,367,7
+Angelina,367,0
+Cristal,367,5
+Paim Filho,367,1
+Porto Firme,366,7
+Mirante do Paranapanema,366,9
+Mataraca,365,10
+Firminópolis,365,11
+Aroazes,364,10
+Nossa Senhora Aparecida,364,6
+Várzea do Poço,364,3
+Barão,364,6
+Quatro Pontes,363,4
+Ametista do Sul,363,8
+Antônio Almeida,362,9
+Fernando Prestes,362,4
+Sete Quedas,362,7
+Carmo do Cajuru,361,11
+Virginópolis,361,6
+Nova Alvorada,361,3
+Santa Isabel,361,6
+Jericó,360,5
+Periquito,360,15
+Carmo do Rio Verde,360,9
+Formoso,360,4
+Taguatinga,359,9
+São João do Jaguaribe,359,4
+Indianópolis,359,1
+Pedro Gomes,359,5
+Francisco Macedo,358,1
+General Câmara,358,16
+Diamante,357,4
+Mata Verde,357,6
+Teixeiras,357,8
+Paranacity,357,4
+Três Palmeiras,357,9
+Paranhos,357,4
+Boqueirão do Piauí,356,7
+Camocim de São Félix,356,11
+Dourado,356,6
+Roque Gonzales,356,3
+Pracuúba,355,6
+Davinópolis,355,14
+Engenheiro Caldas,354,19
+Guapé,354,9
+Theobroma,353,8
+Nina Rodrigues,353,4
+Cristino Castro,353,8
+Brejinho,353,4
+Boquira,353,5
+Jóia,353,1
+Sertão,353,3
+Jucati,352,4
+Santa Luzia do Norte,352,7
+Dom Cavati,352,9
+Varjão de Minas,352,11
+Irapuã,352,9
+Iaciara,352,4
+Riachuelo,351,10
+Coqueiro Seco,351,6
+São Domingos do Sul,351,1
+Itaguaru,351,9
+Portalegre,350,8
+Parapuã,350,8
+Agronômica,350,7
+Cachoeira do Arari,349,14
+Mata Roma,349,10
+Lajeado Novo,349,10
+Tenente Laurentino Cruz,349,0
+Condado,349,7
+Bom Jesus da Serra,349,6
+Bastos,349,12
+Piacatu,349,5
+São João do Oeste,349,7
+Filadélfia,348,5
+Xexéu,348,18
+Monte Castelo,348,10
+Salesópolis,348,23
+Carnaubais,347,7
+Serrinha dos Pintos,347,1
+Itajá,346,5
+Custódia,346,31
+Caém,346,6
+Campo Alegre de Lourdes,346,11
+Chavantes,346,11
+Ibicaré,346,4
+Caiçara,346,5
+Tucunduva,346,7
+Teixeirópolis,345,2
+Bom Lugar,345,6
+Paraú,345,6
+Nova Ibiá,345,12
+Nova Bréscia,345,5
+Caridade do Piauí,344,2
+Cachoeirinha,344,22
+Itaju do Colônia,344,5
+Antônio Carlos,344,6
+Bituruna,344,4
+Água Santa,344,8
+Carrasco Bonito,343,3
+Brasileira,343,6
+Coração de Jesus,343,7
+Grão Mogol,343,3
+Anchieta,343,4
+Campinas do Sul,343,5
+Boa Vista,342,2
+Branquinha,342,8
+Narandiba,342,9
+Saltinho,342,3
+Arroio Trinta,342,3
+Ipiranga do Piauí,341,6
+Inhaúma,341,4
+Terra Rica,341,9
+Eldorado do Carajás,340,9
+Cabeceiras do Piauí,340,8
+Candiba,340,3
+Pardinho,340,6
+Belém do São Francisco,339,5
+Joaquim Nabuco,339,21
+Solidão,339,1
+Descoberto,339,4
+Pinhalzinho,339,2
+Bonito de Santa Fé,338,11
+Alvinópolis,338,5
+Maravilhas,338,3
+Riqueza,338,7
+Vereda,337,14
+Alpercata,337,12
+Tarabai,337,8
+Campo do Tenente,336,9
+Corumbá de Goiás,336,19
+Serra Caiada,335,7
+Santa Maria do Oeste,335,12
+Lacerdópolis,335,3
+Wagner,334,5
+Alvarenga,334,3
+Herculândia,334,10
+Taquaritinga do Norte,333,12
+Angical,333,5
+Mallet,333,3
+Novo Horizonte do Oeste,332,10
+Serra do Mel,332,12
+Barra de Guabiraba,332,12
+Traipu,332,11
+Campo do Meio,332,6
+Perdigão,332,7
+Harmonia,332,4
+Dom Aquino,332,11
+Nova Maringá,332,6
+Matinha,331,5
+Rafael Godeiro,331,1
+Sobrado,331,7
+Palestina,331,13
+São Paulo das Missões,331,4
+Sertão Santana,331,6
+Palestina,330,3
+Mariópolis,330,9
+Sertaneja,330,9
+Araguapaz,330,10
+Caturaí,330,8
+Combinado,329,4
+São Sebastião do Tocantins,329,1
+Luís Gomes,329,3
+Serra do Ramalho,329,8
+Belo Vale,329,6
+Barra do Turvo,329,10
+São Pedro da Cipa,329,14
+Taipu,328,7
+Cabaceiras do Paraguaçu,328,2
+Ouro Verde,328,6
+Santana do Matos,327,5
+Divino de São Lourenço,326,5
+Planalto,326,4
+Rodeio Bonito,326,3
+Aruanã,326,7
+Luís Domingues,325,1
+Monsenhor Hipólito,325,2
+Paranatama,325,10
+Bom Jesus do Galho,325,11
+Vera Cruz,325,13
+Brasilândia,325,6
+Juscimeira,325,19
+Riachão do Bacamarte,324,0
+São José dos Ramos,324,3
+Santana do São Francisco,324,12
+Santa Inês,324,9
+Francisco Alves,324,3
+Jardinópolis,324,4
+Morro Grande,324,1
+Douradina,324,4
+Tibau,323,6
+Congonhinhas,323,9
+Reserva do Iguaçu,323,3
+Ponte Alta,323,7
+Campina das Missões,323,6
+Piratini,323,10
+Gilbués,322,3
+Saúde,322,2
+Indianópolis,322,2
+Pratápolis,322,13
+Bonito,321,12
+Rio de Contas,321,1
+Curral de Dentro,321,4
+São João do Manteninha,321,5
+Bocaina do Sul,321,3
+Taquaruçu do Sul,321,4
+Campestre de Goiás,321,5
+Marcionílio Souza,320,7
+Pranchita,320,5
+Águas de Chapecó,320,4
+Nazaré,319,5
+Pirapemas,319,6
+Ferreiros,319,9
+Entre Rios de Minas,319,5
+Pains,319,3
+Regente Feijó,319,17
+Teixeira Soares,319,6
+Wall Ferraz,318,3
+Jundiá,318,4
+Dom Macedo Costa,318,6
+Ibitiúra de Minas,318,0
+Santa Bárbara do Leste,318,18
+Diamante D'Oeste,318,5
+Xavantina,318,2
+Aral Moreira,318,8
+Açucena,317,10
+Iguatama,317,5
+Guaraçaí,317,6
+Barra Funda,317,5
+Jordão,316,1
+Jandaíra,316,2
+Severiano Melo,316,8
+Novo Triunfo,316,1
+Ipeúna,316,1
+Santa Cruz da Conceição,316,4
+Santa Maria da Serra,316,3
+Lobato,316,6
+Acorizal,316,10
+Sambaíba,315,3
+Potiretama,315,3
+Bom Repouso,315,10
+Paulo de Faria,315,7
+Colorado,315,6
+Macajuba,314,2
+Pato Bragado,314,4
+Dona Emma,314,1
+Papanduva,314,12
+Palminópolis,314,3
+Olivença,313,3
+Aperibé,313,10
+São Jorge do Patrocínio,313,1
+Espírito Santo,312,9
+Triunfo,312,6
+Gameleira,312,20
+São Miguel do Gostoso,311,12
+Capitão Enéas,311,6
+Manduri,311,4
+Pimenteiras do Oeste,310,7
+Quixaba,310,8
+Baldim,310,7
+Central de Minas,310,13
+Brotas,310,12
+Faxinal do Soturno,310,4
+Virgem da Lapa,309,2
+Três Forquilhas,309,5
+Castanheira,309,11
+Porto Alegre do Norte,309,4
+Caseara,308,7
+Paraná,308,1
+Machados,308,8
+Mata Grande,308,9
+Itacarambi,308,5
+Janiópolis,308,6
+Nova Santa Bárbara,308,6
+Maximiliano de Almeida,308,3
+Campos Lindos,307,2
+Chã Grande,307,18
+Antônio Dias,307,6
+Abadia dos Dourados,307,7
+Pérola d'Oeste,307,6
+Iraí,307,5
+São Jorge,307,6
+São Miguel do Aleixo,306,2
+Presidente Castelo Branco,306,5
+Quinta do Sol,306,6
+São Miguel das Missões,306,5
+Messias Targino,305,5
+Jatobá,305,5
+Campo Grande,305,7
+Jacaraci,305,6
+Ibitirama,305,8
+Governador Jorge Teixeira,304,4
+Poranga,304,7
+Jurema,304,14
+Macambira,304,3
+Mirante,304,5
+Passa Tempo,304,2
+Santana de Cataguases,304,0
+Rio Azul,304,3
+Rancho Queimado,304,2
+Mampituba,304,0
+São Pedro dos Crentes,303,2
+General Sampaio,303,9
+Santa Helena de Minas,303,4
+Presidente Médici,302,2
+Viana,302,17
+Cocal de Telha,302,7
+Candeias,302,3
+Inconfidentes,302,8
+Lindoeste,302,6
+Rio do Campo,302,4
+Santa Clara do Sul,302,4
+Maraial,301,9
+Nova Santa Helena,301,6
+Cocalinho,301,6
+Pirajuba,300,3
+Tarumirim,300,15
+Coroados,300,6
+Salto Grande,300,3
+Abatiá,300,4
+Grandes Rios,300,5
+Chã de Alegria,299,11
+Milagres,299,2
+Laranjal,299,11
+Dobrada,299,2
+Maria Helena,299,1
+Arabutã,299,4
+Brazabrantes,299,2
+Ribamar Fiquene,298,11
+Nazarezinho,298,4
+Gavião,298,0
+Novo Oriente de Minas,298,5
+Nossa Senhora das Graças,298,3
+Leopoldo de Bulhões,298,6
+Santo Antônio da Barra,298,4
+Vera Cruz,296,11
+Lagoa do Carro,296,16
+Santana de Pirapama,296,3
+Santo Antônio do Pinhal,296,3
+São Tomé,296,1
+Vitor Meireles,296,2
+Santa Cruz da Baixa Verde,295,5
+Chiapetta,295,10
+São João de Pirabas,294,32
+Afonso Bezerra,294,11
+Roncador,294,4
+Picada Café,294,6
+Nova Colinas,293,5
+Tacaimbó,293,6
+Cachoeira de Pajeú,293,5
+Galiléia,293,14
+Bom Jesus,293,4
+Tupandi,293,3
+Doverlândia,293,6
+Sussuapara,292,3
+Guaramiranga,292,2
+Ouro Branco,292,2
+Janduís,292,4
+Heliópolis,292,5
+Uibaí,292,4
+Trajano de Moraes,292,1
+Macaubal,292,4
+Nova Campina,292,8
+Guairaçá,292,4
+Lagamar,291,9
+São Sebastião do Alto,291,13
+Bernardino de Campos,291,6
+Echaporã,291,11
+São Bento do Sapucaí,291,3
+Formosa do Sul,291,5
+Denise,291,9
+Várzea Grande,290,0
+Rafael Fernandes,290,2
+Ribeirão,290,55
+Saloá,289,11
+Conceição do Rio Verde,289,10
+Confins,289,6
+Leópolis,289,5
+Santa Cruz de Monte Castelo,289,8
+Gaurama,289,2
+Presidente Lucena,289,1
+Brejo dos Santos,288,4
+Bonfinópolis de Minas,288,10
+Caparaó,288,3
+Frei Gaspar,288,1
+Mirassolândia,288,3
+Arraias,287,2
+Governador Archer,287,2
+São Roberto,287,5
+Santa Filomena,287,6
+Verdejante,287,4
+Carmo da Mata,287,4
+Santo Antônio da Alegria,287,7
+Guaraqueçaba,287,7
+Cerro Grande do Sul,287,9
+Pedro Osório,287,10
+Edealina,287,3
+Santarém Novo,286,5
+Nazária,286,8
+Altaneira,286,10
+São Brás,286,3
+Gentio do Ouro,286,2
+Santa Terezinha,286,6
+Bugre,286,9
+Careaçu,286,6
+Vargem Alegre,286,9
+Águas da Prata,286,11
+Rio das Antas,286,5
+Independência,286,2
+Jateí,286,1
+Tremedal,285,5
+Santa Cruz de Minas,285,6
+Americano do Brasil,285,8
+Inaciolândia,285,6
+Angical do Piauí,284,6
+Ipiaçu,284,3
+Primeiro de Maio,284,9
+Barra de Santana,283,4
+Inajá,283,5
+Colônia Leopoldina,283,14
+Sátiro Dias,283,1
+Barbosa,283,6
+Barão do Triunfo,283,3
+Araguacema,282,5
+Tabocão,281,3
+Belágua,281,2
+Sigefredo Pacheco,281,7
+Araçoiaba,281,20
+Coité do Nóia,281,7
+Lagoa Real,281,2
+Gouveia,281,10
+Floraí,281,6
+Quinze de Novembro,281,1
+Sagrada Família,281,8
+Cabaceiras,280,1
+Logradouro,280,9
+São José do Jacuípe,280,2
+Coimbra,280,4
+Ariranha,280,13
+Jaborandi,280,6
+Santana do Itararé,280,8
+São José dos Ausentes,280,6
+Abadiânia,280,18
+Araçu,280,8
+Brejo de Areia,279,7
+Livramento,279,0
+Santana dos Garrotes,279,5
+Jaqueira,279,12
+Lajedão,279,5
+Guarda-Mor,279,6
+Santa Ernestina,279,4
+Sul Brasil,279,2
+Pejuçara,279,6
+Tio Hugo,279,5
+Rio Negro,279,7
+Rio Quente,279,1
+São João da Canabrava,278,5
+Damião,278,2
+Conceição da Aparecida,278,5
+Tapiraí,278,4
+Balbinos,277,3
+Itapiratins,276,1
+Altamira do Maranhão,276,7
+Lagoa Alegre,276,5
+Pureza,276,5
+Anguera,276,1
+Lajedo do Tabocal,276,3
+Aguanil,276,7
+Cabo Verde,276,5
+União do Oeste,276,7
+Cândido Godói,276,1
+Cambará do Sul,276,3
+Goioxim,275,4
+Porto Amazonas,275,3
+Victor Graeff,275,6
+Monte do Carmo,274,5
+Brochier,274,1
+Severiano de Almeida,274,1
+São José do Inhacorá,274,2
+Ibaretama,273,10
+Camalaú,273,5
+Ilha das Flores,273,14
+Pirambu,273,16
+Liberato Salzano,273,9
+Rochedo,273,5
+Maxaranguape,272,2
+Mucugê,272,7
+Quijingue,272,9
+Itaipé,272,1
+Jaguaraçu,272,8
+Formigueiro,272,3
+Apicum-Açu,271,3
+Junco do Maranhão,271,1
+Tangará,271,7
+Malhada,271,15
+Conquista,271,5
+Luiziana,271,3
+Itaguatins,270,6
+Paranã,270,3
+Granjeiro,270,2
+Rodolfo Fernandes,270,6
+São João do Cariri,270,1
+Lafaiete Coutinho,270,4
+Águas Vermelhas,270,3
+Capim Branco,270,5
+Divisópolis,270,4
+Formosa do Oeste,270,7
+Coronel Bicaco,270,9
+Vila Propício,270,3
+Jati,269,3
+Itaquitinga,269,18
+Itaguaçu da Bahia,269,3
+Ribeirão do Largo,269,5
+Catas Altas,269,3
+Divisa Nova,269,8
+Pocrane,269,6
+Reduto,269,4
+Itaju,269,1
+Ibirarema,269,9
+Capitão,269,2
+Mostardas,269,14
+Manoel Viana,269,5
+Cachoeira Dourada,269,4
+Sebastião Leal,268,2
+Alto Caparaó,268,7
+Sulina,268,4
+Nova Rosalândia,267,5
+Calçado,267,2
+Telha,267,5
+Barra do Rocha,267,3
+Ichu,267,3
+Ouriçangas,267,3
+João Ramalho,267,8
+Alegria,267,1
+Caseiros,267,6
+Bequimão,266,14
+Coroaci,266,4
+Recreio,266,8
+Porangaba,266,3
+Marilena,266,5
+Jauru,266,11
+Estrela de Alagoas,265,6
+Charrua,265,11
+Westfália,265,4
+Abaiara,264,6
+Antônio Cardoso,264,5
+Firmino Alves,264,8
+Rio do Antônio,264,5
+Dionísio,264,7
+Ferros,264,6
+Pratânia,264,2
+Santópolis do Aguapeí,264,10
+Caracol,264,4
+Paranaiguara,264,17
+Trombas,264,3
+Pedra Branca,263,1
+Munhoz,263,6
+Ribeirão do Sul,263,2
+Santo Antônio do Jardim,263,4
+Celso Ramos,263,3
+Senador La Rocque,262,15
+Pedro Velho,262,4
+Adolfo,262,6
+Herval,262,8
+Peixe-Boi,261,2
+Pau D'Arco do Piauí,261,2
+Imaculada,261,9
+Crisópolis,261,8
+Fernandes Pinheiro,261,5
+Marumbi,261,3
+Munhoz de Melo,261,2
+Benedito Leite,260,2
+Landri Sales,260,8
+Nova Palmeira,260,0
+Braúna,260,9
+Iguaraçu,260,9
+Tamboara,260,2
+Dois Lajeados,260,0
+Lucrécia,259,0
+Coluna,259,3
+Morada Nova de Minas,259,4
+Santo Antônio do Aracanguá,259,8
+São Francisco de Goiás,259,5
+Campo Largo do Piauí,258,5
+Iraceminha,258,1
+Ipira,258,2
+José da Penha,257,3
+Senador Amaral,257,5
+Lindóia,257,4
+Vidal Ramos,257,3
+Conquista D'Oeste,257,4
+Turiaçu,256,4
+Iuiu,256,3
+Estrela do Sul,256,2
+Pimenta,256,4
+Poloni,256,6
+Taciba,256,7
+Diamante do Sul,256,7
+Campos Borges,256,1
+Novo São Joaquim,256,8
+Presidente Kennedy,255,5
+Olho d'Água,255,5
+Central,255,8
+Piedade de Caratinga,255,13
+Braganey,255,3
+Japira,255,4
+Ermo,255,2
+Novo Brasil,255,1
+Guaimbê,254,4
+Atalaia,254,8
+Guamiranga,254,6
+Mercedes,254,4
+Camargo,254,2
+Chuí,254,0
+Itaara,254,6
+São Felipe D'Oeste,253,5
+Pium,253,2
+Buritirana,253,20
+Água Branca,253,12
+Pedrinhas,253,9
+Chapada Gaúcha,253,2
+Mirabela,253,5
+Toledo,253,17
+Campina do Monte Alegre,253,1
+Cruzeiro do Iguaçu,253,5
+Bandeirantes do Tocantins,252,3
+Potengi,252,3
+Bom Sucesso,252,4
+Piquete,252,6
+Nova Cantu,252,3
+Poço das Trincheiras,251,3
+Biritinga,251,3
+Rio Preto,251,1
+Águas de Santa Bárbara,251,7
+Taiaçu,251,6
+Santa Rita do Araguaia,251,4
+Palmeirais,250,8
+São José de Caiana,250,3
+Jussiape,250,6
+Tiradentes,250,3
+Pinhalão,250,5
+São João da Serra,249,10
+Desterro,249,4
+Sítio do Quinto,249,4
+Comendador Gomes,249,2
+Ladainha,249,3
+Mamonas,249,4
+São Gonçalo do Pará,249,10
+São Francisco do Oeste,248,4
+São José de Ubá,248,5
+Guimarães,247,6
+Campo Grande,247,6
+Barra de São Miguel,247,6
+Itaeté,247,4
+Jambeiro,247,8
+Goiandira,247,11
+Umbuzeiro,246,5
+Aratuípe,246,7
+Irajuba,246,1
+Elisiário,246,4
+Guzolândia,246,12
+Fênix,246,2
+Modelo,246,3
+Irineópolis,246,2
+Ouro Verde,246,9
+Santa Rosa de Lima,246,3
+Francisco Santos,245,1
+Umari,245,6
+Cuité de Mamanguape,245,12
+Monte Alegre do Sul,245,4
+Paraíso,245,9
+Arvoredo,245,3
+Nova Itaberaba,245,3
+Major Gercino,245,5
+Fazenda Nova,245,5
+Sairé,244,4
+Brejo Grande,244,9
+Água Boa,244,6
+São João das Missões,244,2
+Peritiba,244,3
+São Luiz do Norte,244,2
+Aparecida do Rio Negro,243,4
+Baianópolis,243,2
+Jequeri,243,10
+Pedra Bonita,243,6
+Cacique Doble,243,3
+Vanini,243,0
+Anísio de Abreu,242,2
+Cocal dos Alves,242,6
+Fernando Pedroza,242,1
+Montanhas,242,7
+São Bentinho,242,3
+Betânia,242,4
+Moreilândia,242,2
+Gracho Cardoso,242,4
+Santa Rosa de Lima,242,7
+Eugenópolis,242,9
+Itapirapuã Paulista,242,2
+Almino Afonso,241,7
+Araponga,241,2
+Santa Cruz do Escalvado,241,5
+Aratiba,241,5
+Paraíso do Sul,241,4
+Pontão,241,6
+Laguna Carapã,241,1
+Colares,240,12
+Viçosa,240,3
+Barra de São Miguel,240,1
+Cumaru,240,12
+Japaratinga,240,7
+Abaíra,240,7
+São Sebastião do Anta,240,5
+Euclides da Cunha Paulista,240,6
+Bacabeira,239,4
+Milagres do Maranhão,239,1
+Heliodora,239,8
+Iapu,239,14
+Alambari,239,8
+Itarumã,239,5
+Alagoinha do Piauí,238,9
+Lupionópolis,238,5
+Coxilha,238,7
+Tuparetama,237,14
+Córrego Fundo,237,1
+Ponto dos Volantes,237,10
+Ribeirão Grande,237,8
+Suzanápolis,237,5
+Terra de Areia,237,19
+Pau D'Arco,236,6
+São José de Espinharas,236,4
+Pedrão,236,2
+Alto Rio Doce,236,18
+Felisburgo,236,6
+Joanésia,236,8
+Senador Firmino,236,6
+Santa Rita do Pardo,236,1
+Praia Norte,235,6
+Matões do Norte,235,1
+Serraria,235,3
+Indiaroba,235,16
+Moeda,235,6
+Coronel Macedo,235,10
+Conselheiro Mairinck,235,5
+Augusto Pestana,235,2
+Fazenda Vilanova,235,4
+Morrinhos do Sul,235,4
+Torixoréu,235,4
+São Fernando,234,5
+Cuparaque,234,3
+Tiros,234,7
+Bom Sucesso do Sul,234,4
+Entre Rios do Oeste,234,2
+Irati,234,7
+Segredo,234,1
+Aiuaba,233,3
+Olivedos,233,3
+Delfim Moreira,233,11
+Entre Folhas,233,5
+Rio Novo,233,9
+Sabinópolis,233,3
+Glicério,233,8
+Santa Cecília do Pavão,233,5
+Mundo Novo,233,9
+Jequitibá,232,1
+Nuporanga,232,3
+Baía Formosa,231,8
+Gameleiras,231,3
+Boa Ventura de São Roque,231,5
+Novo Horizonte do Norte,231,3
+Tanque Novo,230,0
+Ramilândia,230,4
+Saldanha Marinho,230,7
+Goianorte,229,4
+Frutuoso Gomes,229,0
+São Pedro,229,6
+Colômbia,229,4
+Santa Amélia,229,4
+Gameleira de Goiás,229,3
+Mara Rosa,229,14
+Ielmo Marinho,228,5
+Prudente de Morais,228,2
+Salto da Divisa,228,5
+Anitápolis,228,0
+Doutor Ricardo,228,1
+Ilópolis,228,3
+Rio Sono,227,2
+Antônio Martins,227,2
+Lagoa Salgada,227,5
+Pontes Gestal,227,7
+Flórida,227,2
+Marianópolis do Tocantins,226,7
+Cristalândia,226,4
+Caracol,226,6
+Currais,226,1
+Nazaré do Piauí,226,5
+Santa Maria,226,6
+Assunção,226,1
+Saubara,226,10
+Bertópolis,226,0
+São Domingos das Dores,226,3
+Malta,225,6
+Cardeal da Silva,225,2
+Bonfim,225,5
+Nova Tebas,225,6
+Barracão,225,6
+Cerrito,225,4
+Jaquirana,225,4
+São Valério,224,4
+Conceição de Ipanema,224,2
+Desterro de Entre Rios,224,5
+Oratórios,224,8
+Pavão,224,7
+Rio Manso,224,7
+Irapuru,224,5
+Paulicéia,224,5
+Doutor Maurício Cardoso,224,7
+Hidrolina,224,5
+Barão de Grajaú,223,1
+Colônia do Piauí,223,2
+Paripueira,223,11
+Muquém do São Francisco,223,2
+São José das Missões,223,1
+Cumari,223,6
+Avelino Lopes,222,17
+Caldeirão Grande do Piauí,222,2
+Geminiano,222,2
+Tarrafas,222,7
+Paulo Jacinto,222,8
+Porto de Pedras,222,5
+Cotegipe,222,10
+Ipecaetá,222,7
+Cambuquira,222,7
+Sardoá,222,5
+Lebon Régis,222,18
+Pinheiro Preto,222,1
+Parazinho,221,5
+Cortês,221,12
+Igaporã,221,12
+Comendador Levy Gasparian,221,5
+Rio dos Bois,220,3
+Pilões,220,2
+Congo,220,7
+Florestal,220,7
+Lontra,220,5
+Ângulo,220,3
+Ibema,220,8
+Porto Rico,220,2
+Antônio João,220,4
+Porto Rico do Maranhão,219,2
+Santo André,219,1
+Lajedinho,219,1
+Cristina,219,4
+São José do Goiabal,219,4
+Gália,219,6
+Miraguaí,219,5
+Nova Candelária,219,1
+Guiratinga,219,12
+Magalhães Barata,218,13
+Itaporã do Tocantins,218,1
+Riachinho,218,2
+São Félix de Balsas,218,1
+São Vicente Ferrer,218,1
+Nossa Senhora de Nazaré,218,7
+Baixio,218,5
+Guajeru,218,3
+Cordisburgo,218,6
+Luisburgo,218,11
+Riachinho,218,3
+Santa Fé de Minas,218,2
+Corumbataí,218,2
+Nipoã,218,2
+Salto do Itararé,218,5
+Icatu,217,7
+Bocaina,217,3
+Lagoa de São Francisco,217,4
+Lajes Pintadas,217,4
+Paranapuã,217,7
+Erval Grande,217,2
+Paraíso das Águas,217,5
+Sapucaia,216,5
+Belo Monte,216,6
+Claro dos Poções,216,3
+São Francisco de Sales,216,7
+Parisi,216,11
+Rinópolis,216,5
+Restinga,216,4
+Xambrê,216,5
+Brejinho de Nazaré,215,7
+Orocó,215,6
+Álvares Florence,215,7
+Ivaté,215,2
+Alpestre,215,4
+Redenção do Gurguéia,214,11
+Ninheira,214,2
+São José da Barra,214,3
+Antônio Olinto,214,2
+Planalto Alegre,214,9
+Boa Vista do Sul,214,2
+Aporé,214,5
+Tufilândia,213,5
+Novo Oriente do Piauí,213,10
+Caiçara do Norte,213,4
+Cipotânea,213,12
+Guarará,213,2
+São José da Safira,213,4
+Macedônia,213,7
+Cruzeiro do Sul,213,4
+São José das Palmeiras,213,7
+Derrubadas,213,4
+Anaurilândia,213,5
+Novo Horizonte do Sul,213,3
+Terezinha,212,4
+Argirita,212,5
+Arinos,212,6
+Cana Verde,212,2
+Guarujá do Sul,212,3
+Marques de Souza,212,3
+Avelinópolis,212,5
+Sandolândia,211,5
+Jacobina do Piauí,211,2
+Alagoa,211,1
+Meridiano,211,12
+Novais,211,8
+Zacarias,211,4
+Vargeão,211,4
+Lagoão,211,4
+Riacho da Cruz,210,5
+Senador Rui Palmeira,210,4
+Verdelândia,210,3
+Esperança Nova,210,6
+Ibirapuitã,210,9
+Senador Salgado Filho,210,0
+Bela Vista do Piauí,209,6
+Curralinhos,209,0
+Juazeiro do Piauí,209,1
+Malhada de Pedras,209,4
+Pedrinópolis,209,3
+São Francisco do Glória,209,4
+São Sebastião da Bela Vista,209,5
+Ocauçu,209,3
+Sales,209,14
+Cristianópolis,209,2
+Couto Magalhães,208,5
+São João do Paraíso,208,3
+Martins,208,1
+São Miguel de Taipu,208,6
+Analândia,208,3
+Doutor Ulysses,208,2
+Nova Pádua,208,5
+Nova América,208,1
+Satubinha,207,3
+Penaforte,207,4
+Boa Ventura,207,4
+Chiador,207,3
+Gonzaga,207,7
+Santa Maria Madalena,207,5
+Boa Esperança,207,5
+Nova Fátima,207,2
+Tigrinhos,207,0
+Serrano do Maranhão,206,3
+Alvorada do Gurguéia,206,5
+Assunção do Piauí,206,4
+Andrelândia,206,6
+Divino das Laranjeiras,206,2
+Piranga,206,16
+Santana do Deserto,206,2
+Guarantã,206,6
+Vargem,206,2
+Palmeira do Piauí,205,3
+São Gonçalo do Piauí,205,3
+São Julião,205,4
+Água Nova,205,2
+São Sebastião da Vargem Alegre,205,1
+Vieiras,205,3
+Araguanã,204,11
+Manoel Emídio,204,7
+Porto do Mangue,204,5
+Santana de Mangueira,204,1
+Nova Belém,204,7
+Brasilândia do Sul,204,2
+Mato Castelhano,204,4
+Alcântara,203,8
+Riacho dos Machados,203,3
+Tapira,203,5
+Fagundes Varela,203,2
+Imigrante,203,3
+Itiquira,203,7
+Santa Tereza do Tocantins,202,3
+Cerro Corá,202,4
+Bernardino Batista,202,1
+São Bernardino,202,1
+Jacutinga,202,1
+Junco do Seridó,201,5
+Canápolis,201,3
+Teodoro Sampaio,201,5
+Bom Jesus da Penha,201,3
+Itaoca,201,0
+Lagoa Grande do Maranhão,200,6
+São Mamede,200,9
+Inimutaba,200,6
+Nova Módica,200,2
+Prados,200,8
+Tumiritinga,200,3
+Guatapará,200,8
+Planaltina do Paraná,200,3
+Novo Planalto,200,1
+Galinhos,199,0
+São Gonçalo do Abaeté,199,6
+São Pedro do Butiá,199,2
+Baraúna,198,3
+Gado Bravo,198,4
+Tanque d'Arca,198,3
+Cajuri,198,1
+São Pedro dos Ferros,198,5
+Brejo Alegre,198,8
+Ivatuba,198,5
+Lidianópolis,198,2
+Nova Marilândia,198,5
+Serra da Raiz,197,3
+Inhapi,197,5
+Nossa Senhora de Lourdes,197,6
+Ibiassucê,197,0
+Capitão Andrade,197,11
+Resende Costa,197,3
+Rincão,197,12
+Faxinalzinho,197,3
+Cachoeira Grande,196,5
+Peri Mirim,196,4
+Patos do Piauí,196,4
+Motuca,196,5
+Lunardelli,196,1
+São Francisco de Paula,196,9
+Selvíria,196,2
+Castelândia,196,4
+Sucupira do Riachão,195,2
+Dona Inês,195,4
+Carmo da Cachoeira,195,3
+São Tomás de Aquino,195,11
+Aramina,195,7
+Silveiras,195,3
+Bernardo Sayão,194,4
+Curral Novo do Piauí,194,1
+Passagem Franca do Piauí,194,6
+Santa Cruz dos Milagres,194,2
+Aguiar,194,3
+São Benedito do Sul,194,10
+Pedras de Maria da Cruz,194,2
+Taparuba,194,4
+Bom Jesus do Sul,194,3
+Curvelândia,194,5
+Dirceu Arcoverde,193,5
+Pedra Grande,193,1
+Pescador,193,3
+Itaguajé,193,6
+Paula Freitas,193,6
+Salvador das Missões,193,4
+São Valentim do Sul,193,2
+Abreulândia,192,4
+Caraíbas,192,2
+Rubinéia,192,3
+Abdon Batista,192,1
+São Miguel da Boa Vista,192,2
+Cerro Grande,192,3
+Rio Grande do Piauí,191,3
+Licínio de Almeida,191,4
+Crucilândia,191,3
+Santa Efigênia de Minas,191,8
+Barra do Chapéu,191,0
+Cafeara,191,2
+Rancho Alegre,191,4
+Lagoa dos Três Cantos,191,4
+Sentinela do Sul,191,5
+Inhangapi,190,7
+Capim,190,9
+Areias,190,1
+Romelândia,190,2
+Angico,189,3
+Talismã,189,1
+Bonfim do Piauí,189,2
+Sebastião Laranjeiras,189,5
+Indaiabira,189,1
+Vermelho Novo,189,4
+Rio Branco do Ivaí,189,2
+Leoberto Leal,189,0
+Mormaço,189,3
+Salto do Céu,189,5
+Ouro Verde de Goiás,189,6
+Marajá do Sena,188,3
+Natuba,188,3
+Nova Olinda,188,6
+Roteiro,188,9
+Paramirim,188,12
+Juvenília,188,3
+Jumirim,188,2
+Taquaral,188,2
+São João do Caiuá,188,3
+Belmonte,188,4
+Galvão,188,1
+Passos Maia,188,3
+Vila Lângaro,188,0
+Cubati,187,4
+Igaratinga,187,5
+Rio do Prado,187,2
+Santo Antônio do Grama,187,5
+Pedro de Toledo,187,9
+Ribeira,187,1
+General Carneiro,187,7
+Nova Palma,187,1
+Cabeceiras,187,5
+Gouvelândia,187,3
+Santana do Maranhão,186,6
+Coronel Ezequiel,186,3
+Ponte Alta do Norte,186,2
+Alecrim,186,5
+Rio dos Índios,186,3
+Presidente Sarney,185,9
+Formoso,185,4
+Indiana,185,5
+Pitangueiras,185,3
+Barra do Quaraí,185,2
+Coronel Barros,185,0
+Maçambará,185,4
+Tacima,184,4
+Poção,184,6
+Imbé de Minas,184,5
+São Miguel do Anta,184,5
+Campo Bonito,184,5
+Esperança do Sul,184,7
+Vespasiano Corrêa,184,5
+Canabrava do Norte,184,2
+Santo Afonso,184,8
+Marzagão,184,4
+Governador Luiz Rocha,183,1
+Morros,183,8
+General Maynard,183,6
+Buenópolis,183,6
+Cachoeira da Prata,183,2
+São Sebastião do Maranhão,183,0
+Espigão Alto do Iguaçu,183,4
+Doutor Pedrinho,183,4
+Marema,183,8
+Guarani das Missões,183,5
+Poço das Antas,183,1
+Centenário,182,6
+Muricilândia,182,2
+Mirinzal,182,9
+Ipupiara,182,2
+Icaraí de Minas,182,1
+Marapoama,182,4
+Montauri,182,5
+Barão de Melgaço,182,8
+Aloândia,182,6
+Colinas do Sul,182,2
+Santa Rita do Tocantins,181,1
+Wanderley,181,4
+Córrego do Bom Jesus,181,6
+Goianá,181,3
+Madre de Deus de Minas,181,2
+Mathias Lobato,181,4
+Campos Novos Paulista,181,3
+Iporanga,181,2
+Tomazina,181,2
+Parecis,180,5
+Lagoa d'Anta,180,6
+Caiuá,180,3
+Rosário do Ivaí,180,1
+Serra Alta,180,3
+Santo Antônio do Leste,180,6
+Várzea,179,8
+São Pedro da Serra,179,2
+São Valentim,179,1
+Lagoinha do Piauí,178,4
+Divisa Alegre,178,6
+Castanheiras,177,4
+Parnaguá,177,6
+Rondolândia,177,2
+Cristiano Otoni,176,4
+Tapira,176,1
+Reginópolis,176,4
+Campo Novo,176,2
+Santa Luz,175,5
+Fagundes,175,8
+Umburatiba,175,1
+Recursolândia,174,2
+Conceição do Lago-Açu,174,9
+Cruzeiro da Fortaleza,174,4
+Mesquita,174,2
+Corumbataí do Sul,174,2
+Virmond,174,3
+Pinheirinho do Vale,174,3
+Itajá,174,6
+Professor Jamil,174,7
+Bernardo do Mearim,173,3
+Novo Santo Antônio,173,3
+Pedro Régis,173,6
+Correntes,173,3
+Sabino,173,14
+Paranapoema,173,3
+Porto Lucena,173,0
+São Patrício,173,8
+Cedral,172,0
+Eliseu Martins,172,5
+Cabeceira Grande,172,3
+Romaria,172,6
+Major Vieira,172,3
+Porto Estrela,172,3
+Santa Cruz do Arari,171,9
+Luzinópolis,171,2
+Axixá,171,4
+Paulino Neves,171,3
+Córrego Novo,171,5
+José Raydan,171,0
+Monsenhor Paulo,171,2
+Piranguçu,171,6
+Avaí,171,3
+São José do Barreiro,171,4
+Novo Itacolomi,171,4
+Witmarsum,171,2
+Santo Antônio das Missões,171,14
+Viadutos,171,2
+Reserva do Cabaçal,171,5
+Estrela do Norte,171,0
+Córrego do Ouro,171,2
+Bela Vista do Maranhão,170,9
+Triunfo Potiguar,170,2
+Botuporã,170,3
+Mombuca,170,1
+Divinópolis de Goiás,170,6
+São Domingos do Azeitão,169,4
+Pinhão,169,11
+Tabocas do Brejo Velho,169,3
+Natércia,169,2
+Rochedo de Minas,169,3
+Arandu,169,7
+Erebango,169,1
+Caldazinha,169,2
+Palmelo,169,4
+Caraúbas,168,5
+Ingazeira,168,1
+Lagoa do Ouro,168,6
+Barra de Santo Antônio,168,15
+Érico Cardoso,168,2
+Alto Alegre,168,4
+Bento de Abreu,168,0
+Cunhataí,168,1
+Eugênio de Castro,168,4
+Caraúbas do Piauí,167,5
+Coivaras,167,3
+Cacimbas,167,6
+São Miguel dos Milagres,167,7
+Claraval,167,1
+Alfredo Marcondes,167,4
+Anahy,167,3
+Rio Rufino,167,3
+Nova Brasilândia,167,5
+Alcantil,166,2
+Areial,166,6
+Primavera,166,18
+Nova Porteirinha,166,2
+São Tiago,166,7
+Águas de São Pedro,166,2
+Bozano,166,4
+Santa Tereza,166,3
+Vista Gaúcha,166,6
+Taquarussu,166,2
+Pindorama do Tocantins,165,0
+Marizópolis,165,7
+Casinhas,165,7
+Anhumas,165,1
+Frei Rogério,165,4
+Santa Rosa do Tocantins,164,3
+Fartura do Piauí,164,3
+Cravolândia,164,0
+São Sebastião do Oeste,164,3
+Cabrália Paulista,164,2
+Nova Independência,164,2
+Pongaí,164,7
+Palmeira,164,0
+Amaral Ferrador,164,4
+Curral de Cima,163,2
+Dom Silvério,163,3
+Ewbank da Câmara,163,3
+Soledade de Minas,163,0
+Emilianópolis,163,3
+Pilões,162,3
+Chácara,162,4
+Rosário da Limeira,162,3
+Santa Rita de Jacutinga,162,2
+Murutinga do Sul,162,4
+Marcos Parente,161,5
+Gararu,161,11
+Rio Doce,161,1
+Estrela do Norte,161,3
+Presidente Alves,161,5
+Salgado Filho,161,2
+Monte Belo do Sul,161,3
+Indiavaí,161,6
+União do Sul,161,3
+Campinaçu,161,0
+Ivolândia,161,3
+Macururé,160,3
+Guabiju,160,0
+Pinhal,160,1
+Vista Alegre,160,1
+São João Batista,159,9
+Dom Expedito Lopes,159,7
+Francisco Dantas,159,1
+Lastro,159,0
+Monte Horebe,159,0
+Boa Vista do Tupim,159,4
+Caturama,159,3
+Jerumenha,158,3
+Rio do Fogo,158,9
+Malhada dos Bois,158,2
+Gonçalves,158,4
+Orizânia,158,8
+Oriente,158,8
+Iomerê,158,6
+Santa Terezinha do Progresso,158,3
+Maratá,158,1
+Guaraíta,158,10
+Almas,157,3
+Carmolândia,157,2
+Sucupira do Norte,157,4
+São José do Brejo do Cruz,157,0
+Fernando de Noronha,157,2
+Vertente do Lério,157,2
+Campestre,157,5
+Lamarão,157,2
+Barão de Monte Alto,157,7
+Marliéria,157,6
+Patrocínio do Muriaé,157,4
+Ubirajara,157,1
+Monte Castelo,157,4
+Nova Boa Vista,157,1
+Corguinho,157,2
+Jacaré dos Homens,156,1
+Mira Estrela,156,4
+Diamante do Norte,156,5
+Hulha Negra,156,2
+Mariano Moro,156,3
+Novo Cabrais,156,1
+Major Sales,155,6
+Maetinga,155,4
+Conceição do Pará,155,6
+Lourdes,155,3
+Pedra Bela,155,2
+Sandovalina,155,6
+Santa Lúcia,155,4
+Muliterno,155,1
+Riozinho,155,1
+Pinto Bandeira,155,4
+Tiradentes do Sul,155,2
+Maurilândia do Tocantins,154,1
+Afonso Cunha,154,2
+São João da Fronteira,154,0
+Lagoa de Velhos,154,4
+Caturité,154,3
+Ibirajuba,154,6
+Monteirópolis,154,2
+Alvorada de Minas,154,1
+Divinésia,154,6
+Itamarati de Minas,154,1
+Jaboti,154,3
+Paulo Bento,154,2
+Damolândia,154,9
+Riachão do Poço,153,3
+Canhoba,153,1
+São Francisco,153,5
+Fronteira dos Vales,153,4
+Pequi,153,3
+São Pedro da União,153,3
+Arapeí,153,2
+Lavrinhas,153,3
+Tesouro,153,7
+Novo Acordo,152,2
+São Bento do Norte,152,0
+Olho d'Água Grande,152,6
+Alfredo Vasconcelos,152,5
+Bom Jardim de Minas,152,1
+Japaraíba,152,3
+São José do Jacuri,152,1
+Virgínia,152,1
+Guapirama,152,2
+Atalanta,152,2
+Capela de Santana,152,6
+Passo do Sobrado,152,7
+São José do Sul,152,3
+Montadas,151,2
+Ouro Branco,151,5
+Barra Longa,151,2
+Pedrinhas Paulista,151,3
+Varjão,151,2
+Acauã,150,1
+Aparecida do Rio Doce,150,3
+Japoatã,149,13
+Espírito Santo do Turvo,149,1
+Luiziânia,149,5
+Bandeirante,149,1
+Gramado dos Loureiros,149,3
+Jaú do Tocantins,148,8
+Caiçara do Rio do Vento,148,5
+Cumbe,148,1
+Feira da Mata,148,2
+Santo Antônio do Aventureiro,148,9
+Pracinha,148,1
+Cafezal do Sul,148,1
+Chapadão do Lageado,148,1
+Mariana Pimentel,148,3
+Marcelino Ramos,148,3
+Cromínia,148,5
+Jesuânia,147,8
+Pedregulho,147,6
+Brunópolis,147,3
+Santa Terezinha,147,1
+Alto Feliz,147,0
+Figueirópolis D'Oeste,147,3
+São José do Xingu,147,8
+Aurilândia,147,3
+Pugmil,146,1
+Santo Amaro do Maranhão,146,3
+Jardim do Mulato,146,3
+Datas,146,5
+Jeriquara,146,1
+Quintana,146,3
+Jupiá,146,2
+Dom Feliciano,146,7
+Pilar de Goiás,146,3
+Buenos Aires,145,14
+Dom Bosco,145,5
+Marilac,145,6
+Palma,145,8
+São Pedro do Suaçuí,145,1
+Duas Barras,145,5
+Arapuã,145,3
+Entre Rios do Sul,145,4
+Taquaral de Goiás,145,3
+São Miguel do Passa Quatro,145,2
+Dueré,144,3
+Presidente Vargas,144,2
+Porto Alegre do Piauí,144,2
+Salgadinho,144,3
+Albertina,144,6
+Piedade de Ponte Nova,144,5
+Paula Cândido,144,0
+Santo Antônio do Retiro,144,1
+Lajeado do Bugre,144,6
+Guarani de Goiás,144,0
+Matrinchã,144,1
+Carneiros,143,4
+Água Fria,143,5
+Novo Horizonte,143,0
+Nazareno,143,3
+Ouro Verde de Minas,143,5
+São José do Mantimento,143,2
+Cruzmaltina,143,4
+Mirim Doce,143,3
+Nova Ramada,143,1
+São João do Polêsine,143,2
+Nova Nazaré,143,4
+Campos Verdes,143,3
+Betânia do Piauí,142,2
+Pavussu,142,5
+Santa Cruz,142,5
+Delfinópolis,142,2
+Franciscópolis,142,2
+Monções,142,5
+Itatiba do Sul,142,1
+Ibarama,142,3
+Vale Verde,142,4
+Campo Limpo de Goiás,142,2
+União de Minas,141,2
+Iguatu,141,4
+Nova América da Colina,141,1
+Quarto Centenário,141,1
+Jaraguari,141,2
+Israelândia,141,1
+Santo Inácio do Piauí,140,4
+Morpará,140,6
+Taquaraçu de Minas,140,5
+Nova Luzitânia,140,3
+Dois Irmãos das Missões,140,1
+Travesseiro,140,5
+Novo Lino,139,8
+Antônio Prado de Minas,139,3
+Cristália,139,0
+São Francisco de Paula,139,1
+Cássia dos Coqueiros,139,1
+Inúbia Paulista,139,4
+Jundiaí do Sul,139,4
+Benjamin Constant do Sul,139,0
+Bossoroca,139,11
+Lavras do Sul,139,3
+Poço de José de Moura,138,1
+Serra Grande,138,2
+Maravilha,138,7
+Patis,138,0
+Urucuia,138,3
+Nova Guataporanga,138,0
+Taquarivaí,138,2
+Massapê do Piauí,137,0
+Timbaúba dos Batistas,137,0
+Sossêgo,137,1
+Coronel Xavier Chaves,137,2
+Matutina,137,5
+Sapucaí-Mirim,137,3
+Barra do Jacaré,137,1
+Paulo Frontin,137,0
+Lajeado Grande,137,3
+Cacequi,137,4
+Gramado Xavier,137,1
+Vale de São Domingos,137,5
+Aurora do Tocantins,136,2
+Ipueira,136,1
+Maripá de Minas,136,2
+Pedra do Indaiá,136,6
+São Geraldo da Piedade,136,10
+Riversul,136,3
+Santiago do Sul,136,2
+Bodoquena,136,3
+Campo Alegre de Goiás,136,7
+Olho D'Água do Piauí,135,3
+Vila Flor,135,0
+Gurjão,135,3
+São José de Princesa,135,1
+Brejão,135,4
+Nacip Raydan,135,7
+Tabuleiro,135,4
+Virgolândia,135,6
+Itapura,135,5
+Platina,135,3
+Rio Bom,135,4
+Flores de Goiás,135,4
+Prata do Piauí,134,4
+Bom Sucesso,134,0
+Maturéia,134,3
+Santa Cecília,134,1
+Santa Teresinha,134,8
+Contendas do Sincorá,134,4
+Santa Mônica,134,1
+Paial,134,3
+Estrela Velha,134,2
+Santa Terezinha,134,6
+Nova Aurora,134,4
+Santa Rita do Novo Destino,134,6
+Santa Terezinha do Tocantins,133,3
+Vera Mendes,133,2
+Santana do Seridó,133,0
+Serrinha,133,3
+Padre Carvalho,133,3
+São Brás do Suaçuí,133,1
+Itirapuã,133,1
+Palestina de Goiás,133,3
+Morro Agudo de Goiás,133,1
+Teresina de Goiás,133,0
+Cajari,132,4
+Santana do Piauí,132,3
+Mansidão,132,1
+Augusto de Lima,132,4
+Lassance,132,1
+Pingo d'Água,132,5
+Pedralva,132,5
+Santana da Vargem,132,3
+Amaporã,132,0
+Bela Vista da Caroba,132,3
+Guaporema,132,4
+Ourizona,132,1
+Áurea,132,3
+Nova Roma do Sul,132,2
+Buriti de Goiás,132,1
+Amorinópolis,132,1
+Pedro Avelino,131,3
+Granito,131,3
+Acaiaca,131,5
+Sobrália,131,10
+Ribeirão Corrente,131,2
+Rifaina,131,4
+Porto Barreiro,131,1
+São João do Triunfo,131,2
+Almirante Tamandaré do Sul,131,0
+Urupema,131,1
+Água Fria de Goiás,131,2
+Dois Irmãos do Tocantins,130,7
+Januário Cicco,130,3
+Itanagra,130,4
+Nova Redenção,130,2
+Divinolândia de Minas,130,2
+Volta Grande,130,3
+Iracema do Oeste,130,2
+Caxingó,129,1
+São José do Piauí,129,8
+Mãe d'Água,129,4
+Pedro Alexandre,129,2
+Gurinhatã,129,1
+Senhora dos Remédios,129,5
+São José da Bela Vista,129,6
+Santa Rosa de Goiás,129,4
+Novo Jardim,128,1
+São Salvador do Tocantins,128,1
+Duas Estradas,128,5
+Brejolândia,128,7
+Prado Ferreira,128,5
+Colônia do Gurguéia,127,3
+Jampruca,127,2
+Pratinha,127,1
+Vargem,127,3
+Cristal do Sul,127,1
+Três Arroios,127,1
+Panamá,127,2
+Equador,126,1
+Belém de Maria,126,3
+Muribeca,126,11
+Goiabeira,126,4
+Santa Bárbara do Monte Verde,126,3
+Rolador,126,2
+Bannach,125,2
+Campinas do Piauí,125,1
+João Costa,125,1
+Santa Helena,125,2
+Nova Canaã Paulista,125,3
+Pedranópolis,125,3
+Coronel Martins,125,1
+Saltinho,125,1
+Dom Inocêncio,124,4
+Borborema,124,3
+Manari,124,2
+São Romão,124,4
+São Pedro do Paraná,124,1
+Novo Horizonte,124,0
+Simolândia,124,2
+Sucupira,123,0
+Graça Aranha,123,2
+Coronel João Pessoa,123,3
+Palmópolis,123,5
+Três Ranchos,123,5
+Itaú,122,6
+Palmeiras,122,2
+Vargem Grande do Rio Pardo,122,0
+Inajá,122,4
+Ibiam,122,4
+São Cristóvão do Sul,122,5
+Coqueiro Baixo,122,0
+Campestre da Serra,122,0
+Novo Santo Antônio,122,0
+Milton Brandão,121,3
+Botumirim,121,1
+Espírito Santo do Dourado,121,4
+Jeceaba,121,3
+Japonvar,121,1
+Santana do Riacho,121,2
+São José do Divino,121,3
+São Roque de Minas,121,0
+Álvaro de Carvalho,121,4
+Dolcinópolis,121,5
+Vale do Sol,121,5
+Tupirama,120,2
+Santa Inês,120,3
+Itacuruba,120,3
+Cachoeira Dourada,120,0
+Catuti,120,2
+Faria Lemos,120,3
+Matias Cardoso,120,5
+Ritápolis,120,6
+Pontalinda,120,9
+Alto Paraíso,120,1
+Sério,120,5
+Glória D'Oeste,120,4
+Francisco Ayres,119,5
+Riacho de Santana,119,0
+Canaã,119,1
+Santo Antônio do Caiuá,119,6
+Santo Antônio do Planalto,119,2
+Sede Nova,119,2
+Nova Roma,119,0
+Urutaí,119,1
+Taboleiro Grande,118,4
+Amparo,118,2
+Coronel Pacheco,118,6
+Simão Pereira,118,3
+Buritizal,118,4
+Oscar Bressane,118,0
+São João das Duas Pontes,118,5
+Painel,118,2
+Boa Vista do Incra,118,1
+Esmeralda,118,1
+Cavalcante,118,2
+Mambaí,118,0
+Angelim,117,4
+Piracema,117,5
+Indiaporã,117,2
+Lutécia,117,1
+Vitória Brasil,117,2
+Capão do Cipó,117,1
+Vitória das Missões,117,1
+São José do Povo,117,5
+Baliza,117,3
+Cachoeirinha,116,2
+Arraial,116,2
+Senador Elói de Souza,116,3
+Pedra Lavrada,116,1
+Itinga,116,8
+Jequitaí,116,4
+Setubinha,116,2
+Itaúna do Sul,116,5
+Manfrinópolis,116,2
+Capão Alto,116,2
+Porto Mauá,116,3
+Relvado,116,3
+Nova Iguaçu de Goiás,116,3
+Primavera de Rondônia,115,4
+Bom Jesus do Tocantins,115,1
+Paulistas,115,1
+Florínea,115,2
+Iacri,115,3
+Santa Clara d'Oeste,115,8
+Miraselva,115,2
+São Domingos,115,2
+Arneiroz,114,6
+Conceição da Barra de Minas,114,2
+Martins Soares,114,6
+Montezuma,114,1
+Ubaí,114,1
+Tuiuti,114,1
+Iramaia,113,5
+Matina,113,1
+Carrancas,113,2
+Dom Viçoso,113,1
+Nova União,113,1
+Monteiro Lobato,113,2
+Boa Vista do Cadeado,113,0
+Ernestina,113,3
+Antonina do Norte,112,8
+Canapi,112,6
+Santana,112,11
+Dores de Guanhães,112,3
+Medeiros,112,2
+São Sebastião do Rio Verde,112,1
+Lagoinha,112,2
+Lupércio,112,0
+Matos Costa,112,1
+Ipiranga de Goiás,112,5
+Mossâmedes,112,2
+Jatobá do Piauí,111,5
+Catingueira,111,5
+Amparo de São Francisco,111,3
+Brás Pires,111,5
+Carvalhópolis,111,2
+Frei Lagonegro,111,2
+São Félix de Minas,111,1
+Nantes,111,1
+Novo Machado,111,1
+Ponte Alta do Bom Jesus,110,3
+Paquetá,110,3
+Bom Jesus do Amparo,110,3
+Braúnas,110,3
+Morro do Pilar,110,4
+Monte Formoso,110,3
+Pedra Dourada,110,0
+Santana do Jacaré,110,6
+Cruzaltense,110,3
+Murici dos Portelas,109,4
+Sericita,109,0
+Iaras,109,7
+Boa Esperança do Iguaçu,109,0
+Vicente Dutra,109,3
+Vila Nova do Piauí,108,1
+Cantagalo,108,1
+Crisólita,108,2
+Gastão Vidigal,108,12
+Santo Expedito,108,2
+São Francisco,108,8
+Feliz Deserto,107,4
+Uru,107,3
+Princesa,107,2
+Arambaré,107,2
+Ponte Preta,107,1
+Bacurituba,106,1
+Riacho Frio,106,3
+Leandro Ferreira,106,4
+Pequeri,106,2
+Borebi,106,2
+Canitar,106,1
+Canas,106,3
+Mariápolis,106,0
+Tracunhaém,105,16
+Queiroz,105,3
+Braga,105,3
+Oliveira de Fátima,104,1
+Piquerobi,104,2
+Santa Salete,104,3
+Sarapuí,104,3
+Bom Jesus do Oeste,104,2
+Caibaté,104,4
+Barra do Ouro,103,5
+Cajazeirinhas,103,0
+Manaíra,103,4
+Minador do Negrão,103,4
+Feira Nova,103,5
+Bandeira do Sul,103,5
+Juramento,103,1
+Materlândia,103,1
+Rio Espera,103,2
+Ribeirão Vermelho,103,2
+São Vicente de Minas,103,3
+Santa Rita d'Oeste,103,2
+Campina do Simão,103,2
+Centenário,103,1
+Passa Sete,103,3
+Senador Georgino Avelino,102,4
+Riachão,102,2
+Santa Inês,102,0
+Gentil,102,4
+Planalto da Serra,102,2
+Domingos Mourão,101,0
+Nova Santa Rita,101,3
+Sítio Novo,101,5
+Belmiro Braga,101,3
+Campanário,101,1
+Tocos do Moji,101,3
+Passagem,100,1
+São Vicente do Seridó,100,2
+Adelândia,100,2
+Montividiu do Norte,100,3
+João Dias,99,1
+Passagem,99,2
+Ruy Barbosa,99,1
+Coxixola,99,3
+Caiana,99,2
+Funilândia,99,1
+São Geraldo do Baixio,99,5
+Silvianópolis,99,6
+Gabriel Monteiro,99,4
+Populina,99,3
+União Paulista,99,4
+Alto Bela Vista,99,2
+Macieira,99,4
+Mimoso de Goiás,99,2
+São Bento do Trairí,98,2
+São Francisco,98,2
+Palmeirina,98,4
+Dores do Turvo,98,3
+Turiúba,98,2
+Farol,98,2
+Capão Bonito do Sul,98,2
+Buritinópolis,98,0
+Mutunópolis,98,4
+Floresta do Piauí,97,4
+Jacuípe,97,3
+Joaquim Felício,97,2
+Guarani d'Oeste,97,3
+Barra do Guarita,97,2
+Forquetinha,97,4
+Monte Alegre de Goiás,97,1
+Lagoa do Tocantins,96,4
+São Félix do Tocantins,96,1
+Aroeiras do Itaim,96,1
+Agricolândia,96,0
+Congonhas do Norte,96,1
+Magda,96,3
+Arroio do Padre,96,1
+Bonópolis,96,1
+Mairipotaba,96,2
+São Luis do Piauí,95,0
+Japi,95,1
+Lagoa de Pedras,95,6
+Serra de São Bento,95,1
+Anhembi,95,2
+Cruzália,95,3
+Ariranha do Ivaí,95,1
+Quevedos,95,1
+Serra Nova Dourada,95,2
+Heitoraí,95,1
+Uirapuru,95,5
+Barra D'Alcântara,94,3
+Conceição do Canindé,94,3
+Tanque do Piauí,94,0
+Bom Jesus,94,3
+Matinhas,94,4
+Coronel Murta,94,2
+Itacambira,94,2
+Pinhal da Serra,94,1
+Santo Antônio do Palma,94,1
+Santa Rita do Trivelato,94,2
+Santa Maria do Tocantins,93,1
+Socorro do Piauí,93,3
+Flora Rica,93,4
+Barra Bonita,93,1
+Chapada de Areia,92,2
+Cândido Mendes,92,5
+Monte das Gameleiras,92,1
+Sebastianópolis do Sul,92,2
+Cerro Branco,92,1
+Novo Xingu,92,2
+Japorã,92,3
+Ribeirãozinho,92,3
+Perolândia,92,1
+Brasilândia do Tocantins,91,1
+Lizarda,91,3
+São Raimundo do Doca Bezerra,91,2
+Vista Serrana,91,3
+Emas,91,4
+Olímpio Noronha,91,1
+Fernão,91,0
+Araguaiana,91,1
+Godofredo Viana,90,3
+Pedro do Rosário,90,4
+São Félix do Piauí,90,2
+São João da Mata,90,1
+Senador José Bento,90,2
+Altair,90,6
+Cândido Rodrigues,90,1
+Aceguá,90,0
+Jaboticaba,90,2
+Morro Redondo,90,7
+São Pedro das Missões,90,2
+Vila Nova do Sul,90,1
+Santa Tereza de Goiás,90,1
+São José do Divino,89,7
+Bodó,89,0
+São José do Bonfim,89,5
+Zabelê,89,1
+Carbonita,89,0
+Doresópolis,89,1
+Serranópolis de Minas,89,0
+Floreal,89,2
+São Vendelino,89,5
+Toropi,89,3
+Guarinos,89,3
+Santa Cruz de Goiás,89,1
+Lajeado,88,2
+Flores do Piauí,88,2
+São Gonçalo do Gurguéia,88,2
+Chã Preta,88,2
+Arapuá,88,1
+Carvalhos,88,0
+Sem-Peixe,88,1
+Veríssimo,88,3
+Júlio Borges,87,6
+São Domingos do Cariri,87,3
+Pedra Mole,87,3
+Engenheiro Navarro,87,1
+Muitos Capões,87,4
+Diorama,87,2
+Chapada da Natividade,86,1
+Canavieira,86,5
+Senador Cortes,86,1
+Rio das Flores,86,7
+Sarutaiá,86,3
+Mirador,86,1
+Marquinho,86,2
+São José do Herval,86,1
+Amparo do Serra,85,3
+Cordislândia,85,1
+São José do Alegre,85,2
+Marinópolis,85,1
+Quadra,85,3
+Santo Antônio do Paraíso,85,0
+Itapuca,85,1
+Linha Nova,85,1
+Pirapó,85,5
+Jatobá,84,5
+Coronel José Dias,84,3
+Várzea Branca,84,5
+Carnaubeira da Penha,84,3
+Pindoba,84,1
+Ijaci,84,3
+Luislândia,84,1
+Alcinópolis,84,2
+Rio da Conceição,83,1
+São Francisco do Piauí,83,3
+Bocaina de Minas,83,2
+Piedade dos Gerais,83,4
+Senhora de Oliveira,83,3
+Turmalina,83,2
+Floriano Peixoto,83,1
+Arenópolis,83,1
+Itaueira,82,9
+São Domingos,82,0
+Rio do Pires,82,6
+Ibiracatu,82,1
+Marabá Paulista,82,3
+Santo Expedito do Sul,82,3
+Belém,81,3
+Conceição das Pedras,81,1
+Francisco Badaró,81,0
+Natividade da Serra,81,1
+São Manoel do Paraná,81,1
+Alto Alegre,81,0
+Dilermando de Aguiar,81,3
+Crixás do Tocantins,80,0
+Várzea,80,1
+Tenório,80,2
+Sítio do Mato,80,2
+Angelândia,80,0
+Berizal,80,1
+Ibiaí,80,2
+Pedra do Anta,80,0
+Pouso Novo,80,3
+Protásio Alves,80,5
+Vila Boa,80,2
+Monte Santo do Tocantins,79,2
+Nova Iorque,79,0
+Curral Velho,79,0
+Água Comprida,79,1
+São José da Varginha,79,0
+Laranjal,79,2
+Tunas,79,5
+Figueirão,79,3
+Aiuruoca,78,5
+Unistalda,78,3
+Ipueiras,77,2
+Santo Antônio dos Milagres,77,1
+Salgadinho,77,0
+Quartel Geral,77,1
+Wenceslau Braz,77,0
+Lagoa do Sítio,76,9
+Pajeú do Piauí,76,7
+Algodão de Jandaíra,76,0
+Ouro Velho,76,1
+Ibiquera,76,3
+Morro da Garça,76,3
+Serrania,76,3
+Silveira Martins,76,4
+Bias Fortes,75,2
+Pai Pedro,75,2
+Embaúba,75,2
+Porto Vitória,75,1
+Rancho Alegre D'Oeste,75,1
+Estrela Dalva,74,5
+Mesópolis,74,1
+Santa Cruz da Esperança,74,3
+Rodelas,73,3
+Comercinho,73,3
+Santo Antônio do Itambé,73,1
+Presidente Nereu,73,2
+Humaitá,73,1
+Itanhangá,73,1
+Ponte Branca,73,3
+São José dos Cordeiros,72,0
+Catolândia,72,0
+Piau,72,4
+Sete de Setembro,72,3
+São João do Tigre,71,1
+Presidente Juscelino,71,2
+Santa Maria do Salto,71,1
+Turvolândia,71,3
+Júlio Mesquita,71,4
+Timburi,71,2
+Altamira do Paraná,71,2
+Engenho Velho,71,0
+Luciara,71,1
+Jesúpolis,71,4
+Aracitaba,70,7
+Uruana de Minas,70,1
+Bom Sucesso de Itararé,70,4
+Dirce Reis,70,1
+Santa Mercedes,70,2
+São João do Pau d'Alho,70,0
+Coronel Pilar,70,1
+Dom Pedro de Alcântara,70,3
+Turuçu,70,3
+Guaribas,69,2
+Jurema,69,2
+São João da Varjota,69,2
+Igaracy,69,3
+Poço Dantas,69,2
+Jundiá,69,3
+Fernandes Tourinho,69,8
+São Sebastião do Rio Preto,69,2
+São João da Lagoa,69,1
+Rubiácea,69,1
+Cerro Negro,69,2
+Coqueiros do Sul,69,2
+Novo Tiradentes,69,0
+Anhanguera,69,6
+Piraquê,68,1
+Pedra Preta,68,0
+Presidente Bernardes,68,3
+Santa Bárbara do Tugúrio,68,0
+Aspásia,68,2
+André da Rocha,68,0
+Boa Vista das Missões,68,1
+Porto Alegre do Tocantins,67,1
+Amapá do Maranhão,67,0
+São Sebastião do Umbuzeiro,67,2
+Cônego Marinho,67,1
+Francisco Dumont,67,3
+Carlos Gomes,67,1
+Porto Vera Cruz,67,2
+Lavandeira,66,0
+Carmésia,66,0
+Capela Nova,66,2
+Douradoquara,66,2
+Fortaleza de Minas,66,0
+Ponto Chique,66,1
+Tejupá,66,0
+Santa Helena,66,2
+Conceição do Tocantins,65,6
+Bom Princípio do Piauí,65,3
+Santa Rosa do Piauí,65,1
+Joca Claudino,65,2
+Olho d'Água do Casado,65,2
+Jacuizinho,65,0
+Ipiranga do Sul,65,1
+Morro Cabeça no Tempo,64,1
+São Miguel do Fidalgo,64,2
+Jaramataia,64,1
+Paineiras,64,1
+Alvinlândia,64,0
+Arco-Íris,64,5
+Lagoa Santa,64,0
+Cajapió,63,3
+Rio Vermelho,63,2
+Godoy Moreira,63,1
+São João da Paraúna,63,1
+Juarina,62,2
+Pedro Laurentino,62,2
+Mar Vermelho,62,1
+Felício dos Santos,62,2
+Leme do Prado,62,0
+Olhos-d'Água,62,3
+Piedade do Rio Grande,62,5
+Barão de Antonina,62,1
+Itati,62,4
+São João da Ponta,61,3
+Bento Fernandes,61,2
+Jardim de Angicos,61,0
+Frei Martinho,61,1
+Ingaí,61,3
+Liberdade,61,1
+Queluzito,61,4
+Vargem Bonita,61,1
+Jari,61,2
+Miguel Leão,60,0
+Vieirópolis,60,2
+Fama,60,0
+Ibituruna,60,0
+Jenipapo de Minas,60,0
+Desterro do Melo,59,0
+Luminárias,59,6
+Presidente Kubitschek,59,1
+Pinhal de São Bento,59,0
+Santa Cruz do Xingu,59,0
+Campo Alegre do Fidalgo,58,1
+Francinópolis,58,1
+Quixaba,58,2
+Arantina,58,2
+Ressaquinha,58,1
+Nova Aliança do Ivaí,58,0
+Inhacorá,58,3
+Chorrochó,57,6
+São Tomé das Letras,57,0
+Caiabu,57,4
+Uniflor,57,3
+Herveiras,57,2
+Nicolau Vergueiro,57,3
+Santa Filomena,56,3
+Itabi,56,1
+Itumirim,56,0
+Santa Rosa da Serra,56,1
+Sagres,56,0
+São João de Iracema,56,3
+Trabiju,56,1
+Flor do Sertão,56,0
+Brejo do Piauí,55,3
+Prata,55,3
+Novorizonte,55,3
+Torre de Pedra,55,3
+Riacho de Santo Antônio,54,1
+Brotas de Macaúbas,54,0
+Glaucilândia,54,4
+Bela Vista do Toldo,54,1
+Grupiara,53,1
+Barra do Rio Azul,53,1
+Mata,53,1
+Mateiros,52,0
+Primeira Cruz,52,2
+Campo Azul,52,0
+Fruta de Leite,52,1
+Rubelita,52,1
+Serra Azul de Minas,52,0
+Monte Alegre dos Campos,52,2
+Tupiratins,51,1
+Caranaíba,51,4
+Natalândia,51,1
+Ribeirão dos Índios,51,5
+Salmourão,51,1
+Taipas do Tocantins,50,0
+Santa Filomena do Maranhão,50,0
+Parari,50,1
+Passa Vinte,50,1
+Bom Progresso,50,1
+Quatro Irmãos,50,2
+São Valério do Sul,50,0
+Tavares,50,5
+São João do Araguaia,49,7
+São Miguel da Baixa Grande,49,1
+Camacho,49,1
+Cascalho Rico,49,1
+Santo Antônio do Rio Abaixo,49,1
+Mato Queimado,49,3
+São Lourenço do Piauí,48,1
+Barcelona,48,3
+Santa Margarida do Sul,48,0
+Vista Alegre do Prata,48,1
+Água Limpa,48,0
+Novo Alegre,47,1
+Chapada do Norte,47,1
+Onça de Pitangui,47,2
+Redenção da Serra,47,0
+Paraíso,47,3
+Davinópolis,47,3
+Moiporá,47,1
+Itaverava,46,3
+Passabém,46,1
+Tupanci do Sul,46,0
+São José do Peixe,45,1
+Fortuna de Minas,45,0
+Silveirânia,45,1
+Santana dos Montes,44,0
+Paulistânia,44,1
+Ivorá,44,0
+Damianópolis,44,1
+Barreiras do Piauí,43,1
+Diogo de Vasconcelos,43,0
+Couto de Magalhães de Minas,43,1
+Santo Hipólito,42,1
+Mato Rico,42,2
+Pintópolis,41,1
+Dona Francisca,41,2
+Catas Altas da Noruega,40,2
+Itambé do Mato Dentro,40,2
+União da Serra,40,0
+Palmeirândia,39,6
+Capitão Gervásio Oliveira,39,2
+São Braz do Piauí,39,3
+Venha-Ver,39,3
+Lagoa,39,1
+Casa Grande,39,1
+Guaraciama,39,1
+Ibertioga,39,1
+Presidente Juscelino,38,0
+Aricanduva,38,0
+São Nicolau,38,1
+Jaupaci,38,1
+Paes Landim,37,1
+Cachoeira de Goiás,37,0
+Cristalândia do Piauí,36,1
+Seritinga,36,0
+Canudos do Vale,36,3
+Itacurubi,36,3
+Lagoa dos Patos,35,0
+Minduri,35,0
+Santa Cruz de Salinas,35,2
+Senhora do Porto,35,0
+Veredinha,34,0
+Jardim Olinda,34,1
+Araçaí,33,0
+Tapiraí,33,0
+São Martinho da Serra,33,2
+José Gonçalves de Minas,32,0
+Itutinga,32,1
+Santana da Boa Vista,31,4
+Central do Maranhão,30,1
+Areia de Baraúnas,30,0
+Consolação,30,1
+Paiva,30,2
+Borá,30,1
+Mato Grosso,29,1
+Cajazeiras do Piauí,28,1
+São Francisco de Assis do Piauí,28,2
+Biquinhas,28,0
+São Bento Abade,28,2
+Nova Castilho,28,2
+Santana da Ponte Pensa,28,2
+Amaralina,28,0
+Santo Antônio de Lisboa,27,2
+Lamim,27,1
+Chuvisca,27,1
+Ribeira do Piauí,26,3
+Estrela do Indaiá,26,0
+São Gonçalo do Rio Preto,26,1
+Marmelópolis,26,0
+Senador Modestino Gonçalves,26,2
+Cacimba de Areia,25,1
+Serra da Saudade,25,0
+Lagoa Bonita do Sul,24,0
+Pedro Teixeira,23,0
+São Luiz do Paraitinga,23,5
+São Vicente do Sul,23,9
+Sebastião Barros,22,3
+Tamboril do Piauí,22,1
+Olaria,21,0
+Óleo,21,1
+Garruchos,21,2
+Santana do Garambéu,20,2
+Santa Rita de Ibitipoca,20,0
+Calmon,20,2
+Pedras Altas,20,0
+Oliveira Fortes,19,0
+Pinhal Grande,18,1
+Sítio d'Abadia,18,0
+Monjolos,17,0
+Lucianópolis,17,0
+Araguainha,16,0
+Córrego Danta,15,0
+Boa Vista do Gurupi,14,3
+Bonito de Minas,14,0
+São João do Pacuí,14,0
+Serranos,13,0
+Dezesseis de Novembro,13,1
+Cedro do Abaeté,12,0
+Berilo,10,0
+Miravânia,10,0
+Ubiretama,4,1

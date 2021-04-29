@@ -1,0 +1,11 @@
+﻿,0,1
+0,Request Method:,GET
+1,Request URL:,http://covid19.ncdc.gov.ng/
+2,Django Version:,2.1.2
+3,Exception Type:,ModuleNotFoundError
+4,Exception Value:,No module named 'pyotp'
+5,Exception Location:,"/home/site/wwwroot/covid/views.py in <module>, line 7"
+6,Python Executable:,/opt/python/3.7.7/bin/python3.7
+7,Python Version:,3.7.7
+8,Python Path:,"['/opt/python/3.7.7/bin',  '/home/site/wwwroot',  '/antenv/lib/python3.7/site-packages',  '/opt/python/3.7.7/lib/python37.zip',  '/opt/python/3.7.7/lib/python3.7',  '/opt/python/3.7.7/lib/python3.7/lib-dynload',  '/opt/python/3.7.7/lib/python3.7/site-packages']"
+9,Server time:,"Sat, 29 Aug 2020 08:15:18 +0000"

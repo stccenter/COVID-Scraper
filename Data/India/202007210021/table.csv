@@ -1,0 +1,41 @@
+﻿,S. No.,Name of State / UT,Active Cases*,Cured/Discharged/Migrated*,Deaths**,Total Confirmed cases*
+0,1,Andaman and Nicobar Islands,58,145,0,203
+1,2,Andhra Pradesh,26118,22890,642,49650
+2,3,Arunachal Pradesh,455,282,3,740
+3,4,Assam,7919,16023,57,23999
+4,5,Bihar,10044,16308,217,26569
+5,6,Chandigarh,217,488,12,717
+6,7,Chhattisgarh,1608,3775,24,5407
+7,8,Dadra and Nagar Haveli and Daman and Diu,189,414,2,605
+8,9,Delhi,16031,103134,3628,122793
+9,10,Goa,1417,2218,22,3657
+10,11,Gujarat,11312,34901,2142,48355
+11,12,Haryana,6022,19793,349,26164
+12,13,Himachal Pradesh,413,1059,11,1483
+13,14,Jammu and Kashmir,5844,7811,244,13899
+14,15,Jharkhand,2770,2716,49,5535
+15,16,Karnataka,39376,23065,1331,63772
+16,17,Kerala,7067,5371,42,12480
+17,18,Ladakh,173,1003,2,1178
+18,19,Madhya Pradesh,6568,15311,721,22600
+19,20,Maharashtra,129032,169569,11854,310455
+20,21,Manipur,698,1213,0,1911
+21,22,Meghalaya,382,66,2,450
+22,23,Mizoram,117,167,0,284
+23,24,Nagaland,543,445,0,988
+24,25,Odisha,4893,12453,91,17437
+25,26,Puducherry,817,1154,28,1999
+26,27,Punjab,3311,6535,254,10100
+27,28,Rajasthan,7145,21730,559,29434
+28,29,Sikkim,191,92,0,283
+29,30,Tamil Nadu,50297,117915,2481,170693
+30,31,Telangana,12223,32438,415,45076
+31,32,Tripura,1114,1759,5,2878
+32,33,Uttarakhand,1347,3116,52,4515
+33,34,Uttar Pradesh,18256,29845,1146,49247
+34,35,West Bengal,16492,24883,1112,42487
+35,,Total#,390459,700087,27497,1118043
+36,*(Including foreign Nationals),*(Including foreign Nationals),*(Including foreign Nationals),*(Including foreign Nationals),*(Including foreign Nationals),*(Including foreign Nationals)
+37,**( more than 70% cases due to comorbidities ),**( more than 70% cases due to comorbidities ),**( more than 70% cases due to comorbidities ),**( more than 70% cases due to comorbidities ),**( more than 70% cases due to comorbidities ),**( more than 70% cases due to comorbidities )
+38,#States wise distribution is subject to further verification and reconciliation,#States wise distribution is subject to further verification and reconciliation,#States wise distribution is subject to further verification and reconciliation,#States wise distribution is subject to further verification and reconciliation,#States wise distribution is subject to further verification and reconciliation,#States wise distribution is subject to further verification and reconciliation
+39,#Our figures are being reconciled with ICMR,#Our figures are being reconciled with ICMR,#Our figures are being reconciled with ICMR,#Our figures are being reconciled with ICMR,#Our figures are being reconciled with ICMR,#Our figures are being reconciled with ICMR
